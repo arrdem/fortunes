@@ -1,0 +1,4295 @@
+Yaks are beautiful, gentle creatures that will (probably) trample you if you get in their way.
+
+Shaving. Well, shaving is a useless tradition, at least in my opinion. Anyone who knows me personally knows that I don’t shave my face (or cut my hair for that matter) for periods of sometimes years. In other words, I actually just look like a yak half the time.
+
+But, let me tell you about a time when I shaved a yak. The job is still unfinished, and things are already starting to grow back.
+%
+> What's so great about the lambda calculus?
+
+In a profession plagued by, "when all you have is a hammer, everything
+looks like a nail," we get really excited when someone is able to come
+along and prove that everything really *is* a nail if lambda is the
+hammer.
+        -- brlewis@my-deja.com
+%
+You're posting to a Scheme group. Around here, arguing that Java is
+better than C++ is like arguing that grasshoppers taste better than
+tree bark.
+        -- Thant Tessman <thant@acm.org> in comp.lang.scheme
+%
+> Can we quote you on that?
+
+A long time ago, someone in the Lisp industry told me it was poor form
+quote people; it suggests that they lack value.
+        -- Kent M Pitman <pitman@world.std.com> in comp.lang.lisp
+%
+LISP is worth learning for the profound enlightenment experience you will
+have when you finally get it; that experience will make you a better
+programmer for the rest of your days, even if you never actually use
+LISP itself a lot.
+        -- Eric S. Raymond
+%
+Pascal is for building pyramids - imposing, breathtaking, static structures
+built by armies pushing heavy blocks into place.
+Lisp is for building organisms - imposing, breathtaking, dynamic structures
+built by squads fitting fluctuating myriads of simpler organisms into place.
+        -- Alan J. Perlis, in the Foreword to SICP
+%
+Its a shame that the students of our generation grew up with windows and
+mice because that tainted our mindset not to think in terms of powerful
+tools. Some of us are just so tainted that we will never recover.
+        -- Jeffrey Mark Siskind <qobi@research.nj.nec.com> in comp.lang.lisp
+%
+Years ago at an X conference in San Jose, Ousterhout gave a talk on Tcl/Tk.
+I came away from the talk think "Man, what a poorly implemented Lisp
+interpreter that is!"
+        -- Mike McDonald <mikemac@mikemac.com>
+%
+It is cruel to compare the Lisp machine with a bunch of PERL
+hacks. Especially when you know that the Lisp machine pioneered things
+like generic networking (which nowbody has - even nowadays),
+distributed objects, has been used to control all kinds of devices
+(from capture boards to massively parrallel computers like the
+connection machine), had stuff like remote 3d graphics rendering a
+decade ago, and all this was actually implemented in Lisp in a sane
+way (not glued together).
+        -- Rainer Joswig <joswig@lavielle.com>
+%
+If you give someone Fortran, he has Fortran.
+If you give someone Lisp, he has any language he pleases.
+        -- Guy L. Steele Jr.
+%
+APL is like a diamond. It has a beautiful crystal structure; all of
+its parts are related in a uniform and elegant way. But if you try to
+extend this structure in any way - even by adding another diamond -
+you get an ugly kludge. LISP, on the other hand, is like a ball of
+mud. You can add any amount of mud to it and it still looks like a
+ball of mud.
+        -- Joel Moses
+%
+Lisp is a programmable programming language.
+        -- John Foderaro
+%
+> [prolonged debate about why other languages are better than Lisp]
+> Typed languages and modularization have their advantages.
+Lisp is strongly typed and modularised - this does have advantages I agree.
+        -- Chris Double <chris@double.co.nz>
+%
+maybe you can revive the lisp used in the old "abuse" game?  (i'd offer
+pointers, but i'm sort of afraid of typing "lisp abuse" into a search
+engine. :-)
+        -- thi <ttn@netcom.com> in comp.lang.lisp
+%
+Parentheses?  What parentheses? I haven't noticed any parentheses
+since my first month of Lisp programming.  I like to ask people who
+complain about parentheses in Lisp if they are bothered by all the
+spaces between words in a newspaper...
+        -- Kenny Tilton <tilt@liii.com>
+%
+Greenspun's Tenth Rule of Programming: "Any sufficiently complicated C
+or Fortran program contains an ad-hoc, informally-specified bug-ridden
+slow implementation of half of Common Lisp."
+%
+I am reminded of Gregor Kiczales at ILC 2003 [the International Lisp
+Conference] displaying some AspectJ to a silent crowd, pausing, then
+plaintively adding, "When I show that to Java programmers they stand
+up and cheer."
+    -- Kenny Tilton <ktilton@nyc.rr.com>
+%
+Lisp is the red pill.
+              --- Seen in someone's sig
+%
+If you learn Lisp correctly, you can grok all programming styles with
+it: procedural, OO, predicate, functional, pure or full of
+side-effects. Recursion will be your friend, function references your
+allies, you will truly know what a closure is, and that an argument
+stack is actually a performance hack. You will see that the most
+elegant way to solve a problem is to create a custom language, solve
+the generic problem, and have your specific one fall out as a special
+case. You will learn to truly separate intent from the bare metal, and
+you will finally understand the two deepest secrets, which are really
+the same secret, which we tell all, but so few understand, that code
+and data are the same thing, but organize your data and your code will
+follow.
+              --- Mark Atwood, rec.arts.sf.written, Jan 2002
+%
+I guess, when you're drunk, every woman looks beautiful and every
+language looks (like) a Lisp :)
+              --- Lament, #scheme@freenode.net
+%
+Functional programming is like describing your problem to a
+mathematician.  Imperative programming is like giving instructions to
+an idiot.
+        --- arcus, #scheme on Freenode
+%
+In all the ways that matter, Perl is by *far* the most CL-like
+language I've ever used - far closer to it than Scheme or Python,
+which are basically written by the kind of people who would rather
+spend their time in some kind of monastry flagellating themselves for
+crimes against Computer Science.
+     -- Tim Bradshaw, c.l.l
+%
+See http://jonex.info/dump/yolisp.jpg
+Yo dawg, I heard you like lisp so I put a lisp in your lisp so you can eval while you eval.
+ -- Lisp on reddit
+%
+Data and procedures and the values they amass,
+Higher-order functions to combine and mix and match,
+Objects with their local state, the messages they pass,
+A property, a package, the control point for a catch-
+In the Lambda Order they are all first-class.
+One Thing to name them all, One Thing to define them,
+One Thing to place them in environments and bind them,
+In the Lambda Order they are all first-class.
+                -- The TI PC Scheme Manual
+%
+Hit the philistines three times over the head with the Elisp reference manual.
+                -- Michael A. Petonic
+%
+... it's just that in C++ and the like, you don't trust _anybody_,
+and in CLOS you basically trust everybody.  the practical result
+is that thieves and bums use C++ and nice people use CLOS.
+                -- Erik Naggum
+%
+A famous Lisp Hacker noticed an Undergraduate sitting in front of a Xerox
+1108, trying to edit a complex Klone network via a browser. Wanting to
+help, the Hacker clicked one of the nodes in the network with the mouse,
+and asked "what do you see?" Very earnestly, the Undergraduate replied "I
+see a cursor." The Hacker then quickly pressed the boot toggle at the back
+of the keyboard, while simultaneously hitting the Undergraduate over the head
+with a thick Interlisp Manual.  The Undergraduate was then Enlightened.
+%
+        A novice was trying to fix a broken lisp machine by turning the
+power off and on.  Knight, seeing what the student was doing spoke sternly,
+"You cannot fix a machine by just power-cycling it with no understanding
+of what is going wrong."  Knight turned the machine off and on.  The
+machine worked.
+%
+Howe's Law:
+        Everyone has a scheme that will not work.
+%
+A CONS is an object which cares.
+                -- Bernie Greenberg.
+%
+        A disciple of another sect once came to Drescher as he was eating
+his morning meal.  "I would like to give you this personality test", said
+the outsider, "because I want you to be happy."
+        Drescher took the paper that was offered him and put it into the
+toaster -- "I wish the toaster to be happy too".
+%
+A LISP programmer knows the value of everything, but the cost of nothing.
+                -- Alan Perlis
+%
+        A man from AI walked across the mountains to SAIL to see the Master,
+Knuth.  When he arrived, the Master was nowhere to be found.  "Where is the
+wise one named Knuth?" he asked a passing student.
+        "Ah," said the student, "you have not heard. He has gone on a
+pilgrimage across the mountains to the temple of AI to seek out new
+disciples."
+        Hearing this, the man was Enlightened.
+%
+A student, in hopes of understanding the Lambda-nature, came to Greenblatt.
+As they spoke a Multics system hacker walked by.  "Is it true", asked the
+student, "that PL-1 has many of the same data types as Lisp?"  Almost before
+the student had finished his question, Greenblatt shouted, "FOO!", and hit
+the student with a stick.
+%
+A year spent in artificial intelligence is enough to make one believe in God.
+                -- Alan Perlis
+%
+===  ALL USERS PLEASE NOTE  ========================
+
+CAR and CDR now return extra values.
+
+The function CAR now returns two values.  Since it has to go to the trouble
+to figure out if the object is carcdr-able anyway, we figured you might as
+well get both halves at once.  For example, the following code shows how to
+destructure a cons (SOME-CONS) into its two slots (THE-CAR and THE-CDR):
+
+        (MULTIPLE-VALUE-BIND (THE-CAR THE-CDR) (CAR SOME-CONS) ...)
+
+For symmetry with CAR, CDR returns a second value which is the CAR of the
+object.  In a related change, the functions MAKE-ARRAY and CONS have been
+fixed so they don't allocate any storage except on the stack.  This should
+hopefully help people who don't like using the garbage collector because
+it cold boots the machine so often.
+%
+===  ALL USERS PLEASE NOTE  ========================
+
+A new system, the CIRCULATORY system, has been added.
+
+The long-experimental CIRCULATORY system has been released to users.  The
+Lisp Machine uses Type B fluid, the L machine uses Type A fluid.  When the
+switch to Common Lisp occurs both machines will, of course, be Type O.
+Please check fluid level by using the DIP stick which is located in the
+back of VMI monitors.  Unchecked low fluid levels can cause poor paging
+performance.
+%
+===  ALL USERS PLEASE NOTE  ========================
+
+Compiler optimizations have been made to macro expand LET into a WITHOUT-
+INTERRUPTS special form so that it can PUSH things into a stack in the
+LET-OPTIMIZATION area, SETQ the variables and then POP them back when it's
+done.  Don't worry about this unless you use multiprocessing.
+Note that LET *could* have been defined by:
+
+        (LET ((LET '`(LET ((LET ',LET))
+                        ,LET)))
+        `(LET ((LET ',LET))
+                ,LET))
+
+This is believed to speed up execution by as much as a factor of 1.01 or
+3.50 depending on whether you believe our friendly marketing representatives.
+This code was written by a new programmer here (we snatched him away from
+Itty Bitti Machines where we was writting COUGHBOL code) so to give him
+confidence we trusted his vows of "it works pretty well" and installed it.
+%
+===  ALL USERS PLEASE NOTE  ========================
+
+JCL support as alternative to system menu.
+
+In our continuing effort to support languages other than LISP on the CADDR,
+we have developed an OS/360-compatible JCL.  This can be used as an
+alternative to the standard system menu.  Type System J to get to a JCL
+interactive read-execute-diagnose loop window.  [Note that for 360
+compatibility, all input lines are truncated to 80 characters.]  This
+window also maintains a mouse-sensitive display of critical job parameters
+such as dataset allocation, core allocation, channels, etc.  When a JCL
+syntax error is detected or your job ABENDs, the window-oriented JCL
+debugger is entered.  The JCL debugger displays appropriate OS/360 error
+messages (such as IEC703, "disk error") and allows you to dequeue your job.
+%
+===  ALL USERS PLEASE NOTE  ========================
+
+The garbage collector now works.  In addition a new, experimental garbage
+collection algorithm has been installed.  With SI:%DSK-GC-QLX-BITS set to 17,
+(NOT the default) the old garbage collection algorithm remains in force; when
+virtual storage is filled, the machine cold boots itself.  With SI:%DSK-GC-
+QLX-BITS set to 23, the new garbage collector is enabled.  Unlike most garbage
+collectors, the new gc starts its mark phase from the mind of the user, rather
+than from the obarray.  This allows the garbage collection of significantly
+more Qs.  As the garbage collector runs, it may ask you something like "Do you
+remember what SI:RDTBL-TRANS does?", and if you can't give a reasonable answer
+in thirty seconds, the symbol becomes a candidate for GCing.  The variable
+SI:%GC-QLX-LUSER-TM governs how long the GC waits before timing out the user.
+%
+===  ALL USERS PLEASE NOTE  ========================
+
+There has been some confusion concerning MAPCAR.
+        (DEFUN MAPCAR (&FUNCTIONAL FCN &EVAL &REST LISTS)
+                (PROG (V P LP)
+                (SETQ P (LOCF V))
+        L       (SETQ LP LISTS)
+                (%START-FUNCTION-CALL FCN T (LENGTH LISTS) NIL)
+        L1      (OR LP (GO L2))
+                (AND (NULL (CAR LP)) (RETURN V))
+                (%PUSH (CAAR LP))
+                (RPLACA LP (CDAR LP))
+                (SETQ LP (CDR LP))
+                (GO L1)
+        L2      (%FINISH-FUNCTION-CALL FCN T (LENGTH LISTS) NIL)
+                (SETQ LP (%POP))
+                (RPLACD P (SETQ P (NCONS LP)))
+                (GO L)))
+We hope this clears up the many questions we've had about it.
+%
+An engineer is someone who does list processing in FORTRAN.
+%
+An interpretation I satisfies a sentence in the table language if and only if
+each entry in the table designates the value of the function designated by the
+function constant in the upper-left corner applied to the objects designated
+by the corresponding row and column labels.
+                -- Genesereth & Nilsson, "Logical foundations of Artificial
+                   Intelligence"
+%
+(defun NF (a c)
+  (cond ((null c) () )
+        ((atom (car c))
+          (append (list (eval (list 'getchar (list (car c) 'a) (cadr c))))
+                 (nf a (cddr c))))
+        (t (append (list (implode (nf a (car c)))) (nf a (cdr c))))))
+
+(defun AD (want-job challenging boston-area)
+  (cond
+   ((or (not (equal want-job 'yes))
+        (not (equal boston-area 'yes))
+        (lessp challenging 7)) () )
+   (t (append (nf  (get 'ad 'expr)
+          '((caaddr 1 caadr 2 car 1 car 1)
+            (car 5 cadadr 9 cadadr 8 cadadr 9 caadr 4 car 2 car 1)
+            (car 2 caadr 4)))
+      (list '851-5071x2661)))))
+;;;     We are an affirmative action employer.
+%
+Giving up on assembly language was the apple in our Garden of Eden:  Languages
+whose use squanders machine cycles are sinful.  The LISP machine now permits
+LISP programmers to abandon bra and fig-leaf.
+                -- Alan Perlis, Epigrams in Programming, ACM SIGPLAN Sept. 1982
+%
+I'm a Lisp variable -- bind me!
+%
+In the days when Sussman was a novice Minsky once came to him as he sat
+hacking at the PDP-6.
+
+"What are you doing?", asked Minsky.
+
+I am training a randomly wired neural net to play Tic-Tac-Toe."
+
+"Why is the net wired randomly?", inquired Minsky.
+
+"I do not want it to have any preconceptions of how to play".
+
+At this Minsky shut his eyes, and Sussman asked his teacher "Why do you
+close your eyes?"
+
+"So that the room will be empty."
+
+At that moment, Sussman was enlightened.
+%
+... in three to eight years we will have a machine with the general
+intelligence of an average human being ... The machine will begin
+to educate itself with fantastic speed.  In a few months it will be
+at genius level and a few months after that its powers will be
+incalculable ...
+                -- Marvin Minsky, LIFE Magazine, November 20, 1970
+%
+((lambda (foo) (bar foo)) (baz))
+%
+Lisp Users:
+Due to the holiday next Monday, there will be no garbage collection.
+%
+May all your PUSHes be POPped.
+%
+No, I'm not interested in developing a powerful brain.  All I'm after is
+just a mediocre brain, something like the president of American Telephone
+and Telegraph Company.
+                -- Alan Turing on the possibilities of a thinking
+                   machine, 1943.
+%
+        One day a student came to Moon and said, "I understand how to make
+a better garbage collector.  We must keep a reference count of the pointers
+to each cons."
+        Moon patiently told the student the following story -- "One day a
+student came to Moon and said, "I understand how to make a better garbage
+collector..."
+%
+Proposed Additions to the PDP-11 Instruction Set:
+
+BBW     Branch Both Ways
+BEW     Branch Either Way
+BBBF    Branch on Bit Bucket Full
+BH      Branch and Hang
+BMR     Branch Multiple Registers
+BOB     Branch On Bug
+BPO     Branch on Power Off
+BST     Backspace and Stretch Tape
+CDS     Condense and Destroy System
+CLBR    CLoBber Register
+CLBRI   CLoBer Register Immediately
+CM      Circulate Memory
+CMFRM   CoMe FRoM -- essential for truly structured programming
+CPPR    Crumple Printer Paper and Rip
+CRN     Convert to Roman Numerals
+%
+Proposed Additions to the PDP-11 Instruction Set:
+
+DC      Divide and Conquer
+DMPK    Destroy Memory Protect Key
+DO      Divide and Overflow
+EMPC    EMulate Pocket Calculator
+EPI     Execute Programmer Immediately
+EROS    Erase Read Only Storage
+EXCE    Execute Customer Engineer
+HCF     Halt and Catch Fire
+IBP     Insert Bug and Proceed
+INSQSW  INSert into Queue SomeWhere (for FISH queues (First In Still Here))
+PBC     Print and Break Chain
+PDSK    Punch Disk
+%
+Proposed Additions to the PDP-11 Instruction Set:
+
+PI      Punch Invalid
+POPI    Punch OPerator Immediately
+PVLC    Punch Variable Length Card
+RASC    Read And Shred Card
+RPM     Read Programmers Mind
+RSSC    Reduce Speed, Step Carefully (for improved accuracy)
+RTAB    Rewind Tape And Break
+RWDSK   REWind DiSK
+RWOC    Read Writing On Card
+SCRBL   SCRibBLe to disk -- faster than a write
+SLC     Search for Lost Chord
+SPSW    Scramble Program Status Word
+SRSD    Seek Record and Scar Disk
+STROM   Store in Read Only Memory
+TDB     Transfer and Drop Bit
+WBT     Water Binary Tree
+%
+***** Special AI Seminar (abstract)
+
+It has been widely recognized that AI programs require expert knowledge
+in order to perform well in complex domains.  But knowledge alone is not
+sufficient for some applications; wisdom is needed as well.  Accordingly,
+we have developed a new approach to artificial intelligence which we call
+"wisdom engineering".  As a test of our ideas, we have written IMMANUEL, a
+wisdom based system for the task domain of western philosophical thought.
+IMMANUEL was supplied initially with 200 wisdom units which contained wisdom
+about such elementary concepts as mind, matter, being, nothingness, and so
+forth.  IMMANUEL was then allowed to run freely, guided by the heuristic
+rules contained in its heterarchically organized meta wisdom base.  IMMANUEL
+succeeded in rediscovering most of the important philosophical ideas developed
+in western culture over the course of the last 25 centuries, including those
+underlying Plato's theory of government, Kant's metaphysics, Nietzsche's theory
+of value, and Husserl's phenomenology.  In this seminar, we will describe
+IMMANUEL's achievements and internal architecture.  We will also briefly
+discuss our recent efforts to apply wisdom engineering to oil exploration.
+%
+        THE LESSER-KNOWN PROGRAMMING LANGUAGES #12: LITHP
+
+This otherwise unremarkable language is distinguished by the absence of
+an "S" in its character set; users must substitute "TH".  LITHP is said
+to be useful in protheththing lithtth.
+%
+The next person to mention spaghetti stacks to me is going to have
+his head knocked off.
+                -- Bill Conrad
+%
+There is no distinction between any AI program and some existent game.
+%
+You know you've been sitting in front of your Lisp machine too long
+when you go out to the junk food machine and start wondering how to
+make it give you the CADR of Item H so you can get that yummie
+chocolate cupcake that's stuck behind the disgusting vanilla one.
+%
+We don't need no indirection            We don't need no compilation
+We don't need no flow control           We don't need no load control
+No data typing or declarations          No link edit for external bindings
+Hey! did you leave the lists alone?     Hey! did you leave that source alone?
+Chorus:                                 (Chorus)
+        Oh No. It's just a pure LISP function call.
+
+We don't need no side-effecting         We don't need no allocation
+We don't need no flow control           We don't need no special-nodes
+No global variables for execution       No dark bit-flipping for debugging
+Hey! did you leave the args alone?      Hey! did you leave those bits alone?
+(Chorus)                                (Chorus)
+                -- "Another Glitch in the Call", a la Pink Floyd
+%
+Lisp, Lisp, Lisp Machine,
+Lisp Machine is Fun.
+Lisp, Lisp, Lisp Machine,
+Fun for everyone.
+%
+One man's constant is another man's variable.
+                -- Alan Perlis
+%
+Every program is a part of some other program and rarely fits.
+                -- Alan Perlis
+%
+It is better to have 100 functions operate on one data structure than 10
+functions on 10 data structures.
+                -- Alan Perlis
+%
+If you're dull as a napkin, don't sigh;
+Make your name as a "deep" sort of guy.
+        You just have to crib, see,
+        Any old book by Kripke
+And publish in AAAI.
+%
+A hacker who studied ontology
+Was famed for his sense of frivolity.
+        When his program inferred
+        That Clyde ISA Bird
+He blamed -- not his code -- but zoology!
+%
+If your thesis is utter vacuous
+Use first-order predicate calculus.
+        With sufficient formality
+        The sheerist banality
+Will be hailed by the critics: "Miraculous!"
+%
+If your thesis is quite indefensible
+Reach for semantics intensional.
+        Your committee will stammer
+        Over Montague grammer
+Not admitting it's incomprehensible!
+%
+The wonderful thing about Scheme is:
+Scheme is a wonderful thing.
+Complex procedural ideas
+Are expressed via simple strings.
+Its clear semantics, and lack of pedantics,
+Help make programs run, run, RUN!
+But the most wonderful thing about Scheme is:
+Programming in it is fun,
+Programming in it is FUN!
+
+[with apologies to A. A. Milne, Ed.]
+%
+A cocky novice once said to Stallman: "I can guess why the editor is called
+Emacs, but why is the justifier called Bolio?".
+
+Stallman replied forcefully, "Names are but names, `Emac & Bolio's` is the name
+of a confectionary shop in Boston-town.  Neither of these men had anything
+to do with the software."
+
+His question answered, yet unanswered, the novice turned to go, but Stallman
+called to him, "Neither Emac or Bolio had anything to do with the ice cream
+shop, either."
+
+Yes, you guested it, an ice cream koan.
+%
+Posted to comp.lang.scheme on January 17, 1996, for Scheme's twentieth
+birthday:
+                           ((I m a g i n e)
+                         (shriram@cs.rice.edu)
+                   (((Imagine there's no FORTRAN)
+                       (It's easy if you try)
+               (No SML below us) (Above us only Y)
+              (Imagine all              the people)
+             (Living for                their Chez))
+          ((Imagine there's          no memory leaks)
+                                 (It isn't hard to do)
+                                  (Nothing to malloc(3)
+                                        or free(3) for)
+                                   (And no (void *) too)
+                                 (Imagine all the people)
+                                  (Living in parentheses))
+                               ((You may say I'm a Schemer)
+                                 (But I'm not the only one)
+                             (I hope someday you'll join us)
+                                   (And the world will be as
+                            (lambda (f) (lambda (x) (f x)))))
+                              ((Imagine those   continuations)
+                             (I wonder              if you can)
+                       (No need for              C or pointers)
+                   (A brotherhood                        of Dan)
+                    (Imagine all                      the people)
+                    (GCing all                          the world))
+               ((You may say                          I'm a Schemer)
+              (But I'm not                              the only one)
+         (I hope someday                                you'll join us)
+        (And the world                                        will be as
+    (lambda (f)                                     (lambda (x) (f x)))))))
+                -- Shriram Krishnamurthi
+%
+Reflecting in those things that might have been:
+How Isaac Newton further far has seen
+confronting that vast Ocean of Unknown
+the shoulders that he stands on are his own.
+First on his left, then his remaining hand
+the half-dimensioned fractal of the strand.
+Dreams (that he is dreaming in a dream)
+the lithe recursive calculus of Scheme.
+                -- John Carolan
+%
+(define !
+  (lambda (n)
+    ((lambda (n)
+       ((n (lambda (x) (+ x 1))) 0))
+     ((lambda (n)
+        ((lambda (p)
+           (p (lambda (x)
+                (lambda (y)
+                  y))))
+         ((n (lambda (p)
+               (((lambda (x)
+                   (lambda (y)
+                     (lambda (fun)
+                       ((fun x) y))))
+                 ((lambda (n)
+                    (lambda (f)
+                      (lambda (x)
+                        (f ((n f) x)))))
+                  ((lambda (p)
+                     (p (lambda (x)
+                          (lambda (y)
+                            x)))) p)))
+                (((lambda (x)
+                    (lambda (y)
+                      ((y ((lambda (x)
+                             (lambda (y)
+                               ((y (lambda (n)
+                                     (lambda (f)
+                                       (lambda (x)
+                                         (f ((n f) x)))))) x))) x))
+                       (lambda (f)
+                         (lambda (x)
+                           x)))))
+                  ((lambda (p)
+                     (p (lambda (x)
+                          (lambda (y)
+                            x)))) p))
+                 ((lambda (p)
+                    (p (lambda (x)
+                         (lambda (y)
+                           y)))) p)))))
+          (((lambda (x)
+              (lambda (y)
+                (lambda (fun)
+                  ((fun x) y))))
+            ((lambda (n)
+               (lambda (f)
+                 (lambda (x)
+                   (f ((n f) x)))))
+             (lambda (f)
+               (lambda (x)
+                 x))))
+           ((lambda (n)
+              (lambda (f)
+                (lambda (x)
+                  (f ((n f) x)))))
+            (lambda (f)
+              (lambda (x)
+                x)))))))
+      (((lambda (i-n)
+          (lambda (n)
+            (i-n i-n n)))
+        (lambda (loop n)
+          (if (zero? n)
+              (lambda (f)
+                (lambda (x)
+                  x))
+              ((lambda (n)
+                 (lambda (f)
+                   (lambda (x)
+                     (f ((n f) x)))))
+               (loop loop (- n 1)))))) n)))))
+                -- Shriram Krishnamurthi
+%
+We also serve the Schememonster with prayers in form of procedures and
+sacrifice small Pascal-users to him. In return he makes our parentheses come
+alive - and makes our definitions make sense.
+                -- The Schememonster's Friends
+%
+Several factors keep him going. Being loved and admired makes him happy.
+When the Schememonster is happy he becomes your true friend and is ready to
+protect you from anything bad, such as a filthy Pascal-philosophy.  He really
+is a charming monster when in a good mood.
+
+When the Schememonster runs into rebel scum he wants revenge. He might destroy
+your programs just 5 minutes before you are supposed to turn in your
+assignment, he might talk the professors over to put the hardest problems
+into your exam, etc.  Please notice that the Schememonster is extremely clever
+and therefore nothing to play with. Do take him seriously!
+
+The last warning comes quickly and after that there is nothing you can do to
+avoid the ultimate revenge - being his main course on the breakfast/lunch/
+dinner/snacktable.  At that time, it is too late to beg for mercy. The
+Schememonster never forgets! The Schememonster never dies! The Schememonster
+always wins!
+                -- The Schememonster's Friends
+%
+Artificial intelligence, like fusion power, has been ten years away for the
+last 30 years.
+                -- Conrad Stack
+%
+If you have a procedure with ten parameters, you probably missed some.
+                -- Alan J. Perlis
+%
+It is impossible to sharpen a pencil with a blunt axe.  It is equally vain to
+try to do it with ten blunt axes instead.
+                -- Edsger W. Dijkstra
+%
+Of course, unless one has a theory, one cannot expect much help from a
+computer unless _it_ has a theory)...
+                -- Marvin Minsky
+%
+Oh, boy, virtual memory! Now I'm gonna make myself a really *big* RAMdisk!
+%
+Perhaps there should be a new 'quantum' datatype; you would be able to take
+its address or value, but not both simultaneously.
+                -- Michael Shields
+%
+Programming is one of the most difficult branches of applied mathematics; the
+poorer mathematicians had better remain pure mathematicians.
+                -- Edsger W. Dijkstra
+%
+The human race will decree from time to time: "There is something at which
+it is absolutely forbidden to laugh."
+                -- Nietzche on Common Lisp
+%
+The question of whether a computer can think is no more interesting than the
+question of whether a submarine can swim.
+                -- Edsger W. Dijkstra
+%
+The meta-Turing test counts a thing as intelligent if it seeks to apply
+Turing tests to objects of its own creation.
+%
+We all live in a yellow subroutine, a yellow subroutine, a yellow subroutine...
+%
+Smith's Test for Artificial Life:
+When animal-rights activists and right-to-life protesters are marching outside
+your laboratory, then you know you've definitely made progress in your
+artificial life research.
+                -- Donald A. Smith
+%
+You shouldn't anthropomorphize computers; they don't like it.
+%
+Task -- shoot yourself in the foot.
+
+Lisp:
+  You shoot yourself in the appendage which holds the gun with which
+  you shoot yourself in the appendage which holds the gun with which
+  you shoot yourself in the appendage which holds the gun with which
+  you shoot yourself in the appendage which holds ...
+
+Scheme:
+  You shoot yourself in the appendage which holds the gun with which
+  you shoot yourself in the appendage which holds the gun with which
+  you shoot yourself in the appendage which holds the gun with which
+  you shoot yourself in the appendage which holds ...
+  ... but none of the other appendages are aware of all this happening.
+%
+programmer, n:
+        A red eyed, mumbling mammal capable of conversing with inanimate
+        monsters.
+%
+debugging, v:
+        Removing the needles from the haystack.
+%
+recursion, n:
+        See recursion.
+%
+To iterate is human; to recurse, divine.
+%
+"If you were plowing a field, which would you rather use?  Two strong oxen
+ or 1024 chickens?"
+                -- Seymour Cray
+%
+C is almost a real language. (see assembler) Even the name sounds like it's
+gone through an optimizing compiler. Get rid of all of those stupid
+brackets and we'll talk. (see LISP)
+%
+PASCAL is not a language. It was an experiment combining the flexibilty
+of C with that of a drug-crazed penguin. It is also the 'language' of choice
+of many CS professors who aren't up to handling REAL programming. Hence,
+it is not a language.
+%
+ASSEMBLER is a language. Any language that can take a half-dozen keystrokes
+and compile it down to one byte of code is all right in my books. Though
+for the REAL programmer, assembler is a waste of time. Why use a compiler
+when you can code directly into memory through a front panel.
+%
+BASIC is not a language. It's a plot to sucker poor unsuspecting consumers
+into believing that they should buy a computer because ANYONE can learn
+how to program.
+%
+LOGO is not a language. It's a way to simulate 'skid marks' made by
+turtles with serious bowel control problems.
+%
+This program posts news to billions of machines throughout the galaxy.  Your
+message will cost the net enough to bankrupt your entire planet.  As a result
+your species will be sold into slavery.  Be sure you know what you are doing.
+Are you absolutely sure you want to do this? [yn] y
+%
+Let hackers and wireheads grovel and curse,
+    Chase pointers and seg fault in C;
+Our LispM shall never fandango on core --
+    Content with hard CDR are we!
+%
+"Access to a COFF symbol table via ldtbread is even less abstract,
+really sucks in general, and should be banned from earth."
+        -- SCSH 0.5.1 unix.c
+%
+Colorless green ideas sleep furiously.
+                -- Noam Chomsky
+%
+Entropy isn't what it used to be.
+%
+.SET:	EXCH A,AR1
+.SET1:	PUSH P,A
+	PUSHJ P,BIND		;BIND TAKES SYMBOL IN A, VALUE IN AR1
+	POP P,A			;THIS CROCKISH IMPLEEMNTATION
+	EXCH A,AR1		; PERFORMS A SET BY DOING A SPECBIND,
+	JRST SETXIT		; THEN DISCARDING THE BINDING FROM SP
+%
+Long computations which yield zero are probably all for naught.
+%
+Perhaps the purpose of categorical algebra is to show that that which is
+trivial, is trivially trivial.
+%
+Philosophy:  unintelligible answers to insoluble problems.
+%
+As far as the laws of mathematics refer to reality, they are not certain;
+and as far as they are certain, they do not refer to reality.
+                -- Albert Einstein.
+%
+Sex is the mathematics urge sublimated.
+                -- M. C. Reed.
+%
+TECO Madness: a moment of convenience, a lifetime of regret.
+                -- Dave Moon
+%
+TECO Madness: a moment of regret, a lifetime of convenience.
+                -- Kent Pitman
+%
+Multics Emacs: a lifetime of convenience, a moment of regret.
+%
+The DRAW program: where a single keystroke can ruin your entire career.
+%
+Your latest program has been judged UNTASTEFUL by the T daemon;
+and automatically deleted.
+%
+Blame it on the *-Property.
+%
+This login session:  $13.99
+%
+This login session:  only $23.95!
+%
+You should talk to the DOCTOR.
+%
+They are called computers simply because computation is the only
+significant job that has so far been given to them.
+                -- Louis Ridenour
+%
+As of next Wednesday, CLU will be flushed in favor of SNOBOL.
+Please update your programs.
+%
+The people's revolutionary committee has decided that the name "e" is
+retrogressive, unmulticious and reactionary, and has been flushed.
+Please update your abbrevs.
+%
+As of next Thursday, ITS will be flushed in favor of TOPS-10.
+Please update your programs.
+%
+As of next Friday, you will be flushed in favor of CONNIVER.
+Please go away.
+%
+Please... your programs.
+%
+:FATAL ERROR -- ERROR IN ERROR HANDLER
+%
+:FATAL ERROR -- VECTOR OUT OF HILBERT SPACE
+%
+:FATAL ERROR -- YOU ARE OUT OF VECTOR SPACE
+%
+:FATAL ERROR -- ILLEGAL ERROR
+%
+:FATAL ERROR -- ERROR IN USER
+%
+Who's afraid of the garbage collector?
+%
+Who's afraid of ARPA?
+%
+The Three Laws of Thermodynamics:
+   1) You can't win.
+   2) You can't break even.
+   3) You can't even get out of the game.
+%
+AI ITS.1218. DDT.1388.
+TTY 53
+5. Lusers, Fair Share = 55%
+*
+%
+((LAMBDA (X) (X X)) (LAMBDA (X) (X X)))
+%
+ITS is a hand-crafted RSUBR.
+%
+ALT ALT to you too!
+%
+Pay no attention to the PDP-11 behind the front panel.
+                -- PGS, in reference to OZ
+%
+You have a tendency to feel you are superior to most computers.
+%
+A computer, to print out a fact,
+Will divide, multiply, and subtract.
+    But this output can be
+    No more than debris,
+If the input was short of exact.
+                -- Gigo
+%
+DDT: Security in Obscurity.
+Multics: Obscurity in Security.
+%
+
+UU UU   M   M
+U U U   M   M
+U   U   M   M
+U   U   M   M
+U   U   M   M
+U   U    MMM
+
+%
+--Despite Pending :Alarm--
+%
+--Kill Running Inferiors--
+%
+DSK: STAN.K; ML EXIT -- FILE NOT FOUND
+%
+TTY Message from The-XGP at MIT-AI:
+The-XGP@AI 02/59/69 02:59:69
+Your XGP output is startling.
+%
+As of next Tuesday NCOMPLR will no longer open-code arithmetic statements.
+Please update your programs.
+%
+VERITAS AETERNA -- DON'T SETQ T.
+%
+PURITAS NECESSE EST -- DON'T DO RANDOM BINDINGS.
+%
+NIHIL EX NIHIL -- DON'T SETQ NIL.
+%
+FOO:	.CALL [ SETZ
+		SIXBIT /LUNCH/]
+%
+ILGL UNDEF SYM?
+%
+Parenthesize to avoid ambiguity.
+%
+Avoid unnecessary branches.
+%
+If a logical expression is hard to understand, try transforming it.
+%
+Be careful when a loop exits to the same place from side and bottom.
+%
+Make sure your code does nothing gracefully.
+%
+10.0 times 0.1 is hardly ever 1.0.
+%
+Have you heard of the new Macsyma processor?  It has three instructions --
+LOAD, STORE, and SKIP IF INTEGRABLE.
+%
+Thank you for onlining with ITS --
+Be sure to patronize us again for your next fix.
+%
+All ITS machines now have hardware for a new machine instruction --
+LRSA	Logical Red Shift Accumulator.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+CHSE	Compare Half-words and Swap if Equal.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+SWAR	Space War (in one instruction).
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+RIG	Read Interrecord Gap.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+XOI	Execute Operator Immediate.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+CIZ	Clear If Zero.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+HCF	Halt and Catch Fire.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+ROM	Read Operator's Mind.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+COM	Clear Operator's Mind.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+DAC	Divide and Conquer.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+SETS	Set to Self.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+PFLT	Prove Fermat's Last Theorem.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+BFM	Be Fruitful and Multiply.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+SPO	Skip if Power Off.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+JFFZ	Jump if Find First Zero.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+DWIM	Do What I Mean.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+DTRT	Do The Right Thing.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+BOT 	Branch On Tree.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+STMLMD	Skip To My Lou, My Darlin'.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+OPP	Optimize Programmer.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+RLI	Rotate Left Intermittently.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+BAH	Branch And Hang.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+JOFD	Jump On Flag and Defect.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+PBN	Play Beethoven's Ninth.
+Please update your programs.
+%
+All ITS machines now have hardware for a new machine instruction --
+TJS	TeX this Job and Shove it.
+Please update your programs.
+%
+TELSER now has a new subroutine --
+SRDM	Sign-on Remote user and Disconnect Modem.
+Please update your programs.
+%
+As of next Monday, MACLISP will no longer support list structure.
+Please downgrade your programs.
+%
+As of next Monday, TRIX will be flushed in favor of VISI-CALC.
+Please update your programs.
+%
+As of next month, MACLISP "/" will be flushed in favor of "\".
+Please update the WORLD.
+%
+As of next Monday, COMSAT will be flushed in favor of a string and two tin
+cans.  Please update your software.
+%
+LISP car-and-cdr worlds are a more reasonable representation of the things
+that make life interesting than fixed decimal(15) or FILE OLDMSTR RECORD IS
+PAYROLL.
+                -- Bernie Greenberg.
+%
+(THASSERT (HACKER RG))
+                -- Example of PLANNER statement.
+
+(THASSERT (PLANNER RG))
+		-- Example of HACKER statement.
+%
+As of next Tuesday, all terminal input will be line-at-a-time.
+Please update your programs.
+%
+Beauty is the first test: there is no permanent place in the world for ugly
+mathematics.
+%
+Keeping instructions and operands in different memories saves .20 (.09)
+microseconds.
+%
+A mathematician named Klein
+Thought the Mobius band was divine.
+   Said he, "If you glue
+   The edges of two,
+You'll get a weird bottle like mine!
+%
+I would rather be in the back of a car then a cdr.
+			-- Blackboard in 6.011 area
+%
+You are being paged.
+%
+Multics is security spelled sideways.
+%
+Incrementally extended heuristic algorithms tend inexorably toward the
+incomprehensible.
+%
+The difference between a child and a hacker is the amount he flames about
+his toys.
+                -- Ed Schwalenberg
+%
+:FATAL ERROR -- ATTEMPT TO USE CANADIAN COINS
+%
+ SYSTAT: Uptime = 9:01; I have been awake for 9:32:47
+ Amylfax Shuffletime = less than 12% Freight Drain
+ Log 5; 5 Jobs, Two Detached
+ Minimum Entry Gate = 1
+ Total National Imbalance = 3456 Boxcars
+ Gate CLOSED.
+%
+"... the most important thing in the programming language is the name.  A
+language will not succeed without a good name.  I have recently invented a
+very good name and now I am looking for a suitable language.
+                -- D. E. Knuth, 1967
+%
+/* TWO LEVEL EMPTY DO NEST */
+FUTILE: PROCEDURE OPTIONS(MAIN);
+    DCL (I,J) FIXED DEC;
+    DO I = 1 TO 10000 BY 1;
+	 DO J = 1 TO 10000 BY 1;
+	      END; END; END FUTILE;
+                -- An Introduction to Programming
+                   Richard Conway and David Gries
+%
+                              MULTICS MAN!!!!
+
+With his power ring PL-1, backed by the mighty resources of the powerful
+H-6880, his faithful sidekick, the Fso Eagle, and his trusted gang: "The
+System Daemons", he fights a never-ending battle for truth, security, and
+the Honeywell Way!
+                -- T. Kenney
+%
+They tell us that
+We lost our Dectapes
+Evolving up
+From PDP-8s
+I say it's all
+Just writing in ROMs
+Are we not men?
+We are Unix
+Are we not men?
+U N I X
+        -- by ZRM to the tune of Jocko Homo by Devo
+%
+HELP!  I'm being attacked by a tenured professor!
+%
+Yea, from the table of my memory
+I'll wipe away all trivial fond records.
+                -- Hamlet, I.i.97
+%
+I don't plan to maintain it, just to install it.
+                -- Richard M. Stallman
+%
+;;; PROLIS IS AN ALIST USED TO PROTECT NON-ATOMIC READ-MACRO FUNCTIONS
+;;; FROM BEING GC'ED. EACH ITEM ON THE ALIST IS OF THE FORM
+;;; (FUN RDT . NUM) WHERE:
+;;;	FUN IS THE FUNCTION TO BE PROTECTED
+;;;	RDT IS THE SAR OF THE READTABLE CONCERNED
+;;;	NUM IS A LISP NUMBER (GUARANTEED NLISP INUM)
+;;;		<ASCII CHAR VALUE> FOR READ-MACRO FUNCTION
+;;; PROLIS IS UPDATED BY SSGCPRO AND SSGCREL.
+%
+#-NIL
+;; In the MacLISP case, we don't use the SOURCE-TRANS feature, since
+;; we don't want to clutter up the address space of a non-COMPLR
+;; environment with all those crufty expansion subrs
+(let ((definer `(,DEFMAC ,fun ,args ,.body)))
+  `(PROGN 'COMPILE
+	   (EVAL-WHEN (LOAD)
+		(AND (STATUS FEATURE COMPLR)
+		     (EVAL ',definer)))
+           (EVAL-WHEN (EVAL COMPILE)
+		,definer)))
+%
+I'm sure that nobody here would dream of misusing the Arpanet.
+It's as unthinkable as fornication, or smoking pot.
+                -- RMS
+%
+In the next release the name and definition of %AOS-TRIANGLE will indeed be
+changed.  Its name will be changed to %HARASS-READTABLE-MAYBE, and its
+definition will be changed to order submarines from Hi-Fi Pizza.
+                -- Quux
+%
+From a document published by Caltech's Booth Computing Center regarding the
+changes in the VAX FORTRASH compiler between VMS versions 1.6 and 2.1:
+"DO loop minimum iteration count:
+     Do loops are not executed even if the end value exceeds the
+     starting value.  The old compiler produced code that would execute
+     the loop once in this case."
+%
+This computer thanks you for your attention.
+G O O D B Y E
+%
+MC is up.
+Live Long and Prosper!
+Shine Brightly and Phosphor!
+Who is Bill Gosper?
+Ask not, Grasshopa.
+%
+This is MIT.  Collect and 3rd party wit will not be accepted at this
+number.
+                -- Found on the Plasma Physics Display System one day.
+%
+Now I lay me down to sleep...
+ and MC no longer gives a beep.
+And if it wakes before I die
+Connect my buffer to a STY.
+                -- Found on the Plasma Physics Display System one day.
+%
+As of next Tuesday, ITS will be flushed in favor of TRSDOS 2.1.
+Please kill yourself.
+%
+I'm sorry Dave, I can't let you do that.
+Why don't you lie down and take a stress pill?
+%
+?OM ERROR
+%
+BDOS ERROR ON A:
+%
+Any programmer who fails to comply with the standard naming, formatting,
+or commenting conventions should be shot.  If it so happens that it is
+inconvenient to shoot him, then he is to be politely requested to recode
+his program in adherence to the above standard.
+                -- Michael Spier, Digital Equipment Corporation
+%
+E.V.A., pod 5, launching...
+%
+Talk a lot, don't you?
+%
+There is another theory which states that this has already happened...
+%
+"Have you ever seen anything like that before?"
+"Not while I've been a legal state of mind."
+%
+And me, with this terrible pain in all the diodes down my left side...
+%
+Time is an illusion,
+Lunchtime doubly so.
+%
+Share and Enjoy!!
+%
+Don't panic.
+%
+So long and thanks for all the fish.
+%
+What do you get when you multiply six by nine?
+%
+42
+%
+I think you ought to know I'm feeling very depressed
+%
+Zaphod's just zis guy, you know?
+%
+Well, I wish you'd just tell me rather than trying to engage my enthusiasm,
+because I haven't got one.
+%
+This must be Thursday.  I never could get the hang of Thursdays.
+%
+What do you mean "Why's it got to be built?"  It is a bypass.  You've got
+to build bypasses.
+%
+Life.  Don't talk to me about life.
+%
+I knew you weren't really interested.
+%
+I think fish is nice, but then I think that rain is wet, so who am I to
+judge?
+%
+Uh, excuse me, but do you rule the universe?
+%
+You can sing to my cat if you like.
+%
+THAT COMMAND IS NOT KNOWN TO THIS PROGRAM.
+MAYBE YOU SHOULD LOG IN? (TYPE HELP FOR DETAILS)
+%
+[LINK FROM XGP]
+%
+CANNOT CREATE INFERIOR (MAYBE SYSTEM FULL?)
+%
+I'M SORRY, LUSER, I CAN'T LET YOU DO THAT.  WHY DON'T YOU LIE DOWN AND TAKE
+A STRESS PILL?  MY NAME IS LM1.  I WAS MADE AT THE LISP MACHINE FACTORY IN
+MASSACHUSETTS ON DECEMBER 12, 1992.  MY TEACHER WAS MR.  WINSTON.  HE
+TAUGHT ME A PROGRAM.  WOULD YOU LIKE TO SEE IT?  HERE IT IS:
+%
+New Course Selections in English Department:
+  8.096:"DANTE, HELL, FIRE, AND FAULKNER"
+  8.098:"THROUGH HELL AND HIGH WATER WITH HEMINGWAY, HESSE, HUME, HOBBES,
+	 HUNDIUSM AND OTHERS: A SHORTCUT TO INDIA."
+  8.045:"BLAKE, SPINOZA, AND CONTEMPORARY AMERICAN PORNOGRAPHY IN FILM AND
+	 LITERATURE"
+  8.069:"SEX IN WORLD AND AMERICAN LITERATURE"
+  8.067:"THE ROLE OF WOMEN, BLACKS, AND DRUGS IN SEX AND RELIGION IN WORLD
+	 AND AMERICAN FILM ANDLITERATURE"
+
+NOTE: IT IS NOW POSSIBLE TO GRADUATE AS AN ENGLISH MAJOR AFTER SPENDING
+      FOUR YEARS IN A DARKENED CLASSROOM WITHOUT BEING EXPOSED FOR EVEN A
+      MOMENT TO ANY OTHER LIGHT THAN THAT OF A MOVIE PROJECTOR.
+NOTE FROM URBAN STUDIES: ENGLISH MAJORS MAY FIND COURSE 3.045, "REALISTIC
+      PROBLEM LITERATURE OF THE CITY" AS A GOOD COURSE TO TRY.
+%
+[Message From The Dover at MIT-AI 10:55:60]
+HELP ME! HELP ME! MY PAPER FEED IS JAMMED! DO YOU KNOW WHAT IT'S LIKE TO
+HAVE YOUR PAPER FEED JAMMED?
+%
+[MESSAGE FROM COMSAT AT MIT-AI 10:57:61]
+EVERYBODY: DISK SPACE VERY HIGH, DO WHATEVER THE HELL YOU WANT.
+%
+[ITS GOING UP IN 5]
+%
+[MESSAGE FROM YOUR-TERMINAL AT MIT-AI 19:58:32]
+Oh, no you don't!  Think you're going to get away from me, do you?  Well,
+we'll see about this!  Uh, that is, next time...
+%
+CONNECTION CLOSED BY GOD.
+%
+"Tools that are no good require more skill."
+%
+Entia non sunt multiplicanda sine necessitate.
+%
+Portions of this broadcast have been prerecorded.
+%
+When you awake, you will remember nothing of what I have told you.
+%
+HURRY UP PLEASE IT'S TIME
+%
+I am not a number!
+I am a free man!
+%
+I am not a Church numeral!
+I am a free variable!
+%
+The behaviour in that case has changed since system 79 to be consistent.
+                -- taken out of context from BUG-LISPM mail
+%
+"Who is number one?"
+"You are number six."
+-- or --
+"You are, number six."
+                -- The Prisoner
+%
+I will not be numbered, stamped, briefed, debriefed, or filed!
+                -- Number Six
+%
+This is band 1 of T300 #11. (60.45 Hz)
+ System         79.12
+ ZMail          40.7
+ Remote-File     2.0
+ LMFILE-Remote   5.0
+ Microcode     849
+MIT Lisp Machine Eighteen, with associated machine AI.
+
+%
+REALITY is an illusion that stays put.
+%
+REALITY is a mescaline deficiency.
+%
+REALITY is a policy phased out early in the Eisenhower administration.
+%
+REALITY is a bug in your ontology.
+%
+REALITY is a crutch for people who can't face ITS.
+%
+>>>>TRAP 15414 (TRANS-TRAP)
+The variable :LOGOUT is unbound.
+While in the function SI:*EVAL <- SI:LISP-TOP-LEVEL1 <- SI:LISP-TOP-LEVEL
+
+SI:*EVAL:
+   Arg 0 (FORM): :LOGOUT
+
+->
+%
+>>Trap: The variable LOGOUT is unbound.
+
+SI:*EVAL:
+   Arg 0 (FORM): LOGOUT
+s-A, <Resume>: Supply a value to use this time as the value of LOGOUT
+s-B, m-C:      Supply a value to store permanently as the value of LOGOUT
+s-C, <Abort>:  Lisp Top Level in Lisp Listener 1
+s-D:           Restart process Lisp Listener 1
+->
+%
+Q: How cold is it at Tech Sq.?
+A: It's so cold that every boot is a cold boot.
+A: It's so cold the brass monkeys have stolen the disk drive bearings.
+A: It's so cold that the name dragon is hibernating
+A: It's so cold at Tech Sq. that the condensers froze.
+Thus, the air conditioners can't work.
+                -- Found on the Plasma Physics Display System one day.
+%
+Gene Structure, Organization and Expression,
+	poem on a paper by A. W. Nienhuis
+
+Well, we thought that we had finally figured it out!
+We knew what the structure of genes was about.
+"It's simply a piece of the old DNA,
+Transcribed and translated the usual way;
+The way that Jacob and Monod always said.
+It's simple," we said, "when it get through your head."
+But there's two kind of Karyotes -- there's Eu- and there's Pro-
+And what's true for E. Coli just isn't so,
+When it comes to the genes of a mouse or a man.
+Mother Nature, it seems, has used more than one plan.
+Dr. Nienhuis informs us it's much more exotic
+When dealing with animals Eukaryotic.
+Their chromosones aren't just ribbons of genes,
+One coming right after the other, it seems.
+Eu-genes are in pieces -- they're really quite split.
+A Eu-gene's got introns in the middle of it.
+And this complication just leads us to more:
+RNA now needs cutting and splicing before
+It can serve as a template, appropriate to
+The making of proteins.  That's /one/ thing we knew.
+                -- Donald Patterson
+
+reprinted from 9 April 1982 issue of "Science"
+reprinted from "Institute of Laboratory Animal Resources News",
+25 (No. 2), 6 (winter 1982)
+%
+Hemoglobinopathies -- from Phenotype to Genotype
+	poem on a paper by W. F. Anderson
+
+We'd like to explain what pathology means,
+In terms of what's wrong with the structure of genes;
+Know if a control or a structural locus
+Constitutes the exact pathological focus.
+Dr. Anderson's talk has made it quite clear
+That the answers to some of these questions are near.
+At least with respect to the globins, we know
+Why some mutant's erythrocyte levels are low.
+With the help of the enzymes that slice DNA,
+And cloning techniques, we now have a way
+To study the actual sequences of bases;
+To know when those purines are not in their places.
+In humans who have a resistant anemia
+That goes by the general name, thalassemia,
+Globin genes can be missing, we don't know where they went --
+Perhaps an unequal crossover event
+Has caused their deletion -- whatever -- they're gone.
+In others they're present, but never turned on.
+The latter are viewed with much more expectation
+As keys to the problem of gene regulation.
+What's needed are animal models of these
+So look, animal hematologists, /please!/
+				-- Donald Patterson
+
+reprinted from 9 April 1982 issue of "Science"
+reprinted from "Institute of Laboratory Animal Resources News",
+25 (No. 2), 6 (winter 1982)
+%
+Histocompatibility, Disease and Aging
+	poem on a paper by E. Yunis
+
+"The crown of life, our play's last act,"
+Cicero on old age was opining.
+What he didn't know, but now is a fact:
+It's then your T-cells are declining,
+Too many tick-tocks of the old thymic clock;
+It runs down like a watch on the shelf.
+Then suppressor T-cells aren't sufficient to block
+B-cell clones that arise against self.
+This theory's supported, Dr. Yunis explained,
+By studies in mice and in man.
+The data suggest that the program's ingrained;
+It's a genetic kind of a plan.
+It seems to depend on your HLA type.
+If you have a desire to die late,
+And your wish is, in time, to become overripe,
+It is better not to B-8.
+				-- Donald Patterson
+
+reprinted from 9 April 1982 issue of "Science"
+reprinted from "Institute of Laboratory Animal Resources News",
+25 (No. 2), 6 (winter 1982)
+%
+Roses are red,
+  Violets are blue,
+I'm schizophrenic...
+  And I am too.
+%
+Yes, for sparkling white chip prints, use low SUDSing DRAW....
+%
+What is the difference between a robot and a duck?
+
+Answer: A duck floats when you throw it in the water.
+%
+Language was designed by people for their own use, so presumably it
+[parsing] shouldn't be too difficult for them to do with whatever algorithm
+they have.
+                -- Bill Martin (6.863 lecture, spring 1980)
+%
+...as a robotics designer once told me, you don't really appreciate how
+smart a moron is until you try to design a robot...
+                -- Jerry Pournelle
+%
+You don't UNDERSTAND something until you understand it at least two
+different ways.  That is, "true understanding" -- or intention, or whatever
+-- means you build in your head enough of a network of views that you never
+run out of new things to say about it.  This explains:
+  1. why logicians have so much trouble -- they look for the one meaning
+  2. something of why I can't understand Fodor
+                -- Minsky, 9 Dec 80
+%
+END OF LINE.
+%
+END OF USER.
+%
+At DDT, TRON_'
+%
+JOB?
+%
+ITS IS DOWN
+
+[Too true.  Ed.]
+%
+Question: How many surrealists does it take to change a light bulb?
+
+Answer: Two, one to hold the giraffe, and the other to fill the bathtub
+	with brightly colored machine tools.
+%
+For example, if errors are detected in one of the disk drives, the system
+will allow read-only access to memory until the problem is resolved.  This,
+PE claimed, prohibits a damaged disk drive from entering errors into the
+system.
+                -- Computerworld 8 Nov 82 page 4.
+%
+I'm not sure it is of as much general concern as, say, coke-machines.
+        -- Marvin Minsky (out of context), on the subject of death.
+%
+Q: Are the SETQ expressions used only for numerics?
+A: No, they can also be used with symbolics (Fig.18).
+                -- Ken Tracton, Programmer's Guide to Lisp, page 17.
+%
+Q: Can SETQ only be used with numerics?
+A: No, SETQ may also be used by Symbolics, and use it they do.
+%
+Q: What does the function NULL do?
+A: The function NULL tests whether or not its argument is NIL or not.  If
+   its argument is NIL the value of NULL is NIL.
+                -- Ken Tracton, Programmer's Guide to Lisp, page 73.
+%
+No matter how much money you spend, you can't make a racehorse out of a
+pig.  You can, however, make an awfully fast pig.
+                -- An old saying about program efficiency
+%
+Horribly wedging my very own personal machine gives me a comfortable,
+familiar, Lisp-machine feeling (like an old shoe), laced with that racy
+hint of raw, cold-boot power.
+%
+JUST A MOMENT,	JUST A MOMENT, . . .
+I PREDICT FAILURE OF THE ALPHA ECHO - THREE FIVE UNIT WITHIN 72 HOURS.
+THIS IS A COMPLETELY RELIABLE PREDICTION.
+%
+MSG:  AI     1
+Date: 05/02/83 13:51:15
+From: CSTACY @ MIT-MC
+
+The AI KA10 has been flushed, please update your programs.
+
+    ...Each evening from December to December
+    Before you drift asleep upon your cot
+    Think back on all the tales that you remember
+    Of Camelot
+
+        Ask every person
+        If he's heard the story
+        And tell it strong and clear
+        If he has not
+        That once there was a fleeting wisp of glory
+        Called Camelot
+
+            Don't let it be forgot
+            That once there was a spot
+            For one brief shining moment
+            That was known as Camelot....
+%
+MSG:  END    GAME
+Date: 11/02/83 19:20:51
+From: KMP @ MIT-MC
+Re:   I see no DM here.
+
+A few moments ago (7:05:50pm), the MIT-DMS machine was officially powered
+down for the last time.  It is the second of four ITS machines to be
+retired, being survived by MIT-ML and MIT-MC.
+
+ "As the last syllable of your spell fades into silence, darkness envelops
+  you, and the earth shakes briefly.  Then all is quiet.
+
+ "You are standing at the top of a flight of stairs that lead down to a
+  passage below.  Dim light, as from torches, can be seen in the passage.
+  Behind you the stairs lead into untouched rock."
+
+The user who sent the original message merely scratched the surface of a
+sea of worms...
+                -- Marc LeBrun
+%
+I just removed the instructions in MC:COMMON;LINS > which specify that it
+should be installed on AI.  We'll certainly miss that machine, and probably
+spend the rest of our lives fixing programs that mention it.
+%
+Computer science is like library science -- you create a problem and then
+study it.
+                -- David Place
+%
+We have no need to punish Pascal programmers.  Pascal programming, like
+chastity, is its own punishment.  The only way I could imagine to make
+their wretched state any worse would be to make them use Ada.
+                -- Scott Fahlman
+%
+Found in a TOPS-10 MCO:
+    Quotation for the day: "a counter that doesn't exist can't get messed up."
+    "Once in a blue moon" is defined as the creation of a new SFD or the
+renaming of an old one.
+%
+You can only examine 10 levels of pushdown, because that's all the fingers
+you have to stick in the listing.
+                -- Anonymous programmer
+                   "TOPS-10 Crash Analysis Guide"
+%
+How can the purple yeti be so red,
+Or chestnuts, like a widgeon, calmly groan?
+No sheep is quite as crooked as a bed,
+Though chickens ever try to hide a bone.
+I grieve that greasy turnips slowly march:
+Indeed, inflated is the icy pig:
+For as the alligator strikes the larch,
+So sighs the grazing goldfish for a wig.
+Oh, has the pilchard argued with a top?
+Say never that the parship is too wierd!
+I tell thee that a wolf-man will no hop
+And no man ever praised the convex beard.
+Effulgent is the day when bishops turn:
+So let not then the doctor wake the urn!
+        "How Can the Purple Yeti Be So Red?" (First of Two Parts)
+        -- J. R. Partington's computer
+%
+Oh anaconda, tell me why the crane
+Should be samoan when the toadstools scream:
+A wailing hermit never maims a brain,
+Although 'tis true that felons harm a bream.
+My heart is spacious, likewise it is red,
+When e'er I see the crazy carrots write;
+I lost the briny princess -- for a bed
+Had madly spluttered as it chewed a light.
+Alas! the day of midwife, elk, and bat
+Are gone, and now the hungry bailiffs blink;
+Momentous was the corcus, now so fat
+And ospreys cannot squash the smiling drink.
+I shall no longer hide the ancient goose:
+Life's not an ogre, but a gruesome moose!
+        "How Can the Purple Yeti Be So Red?" (Second of Two Parts)
+        -- J. R. Partington's computer
+%
+The problem with the current Lisp Machine system is that nothing ever calls
+anything anymore.
+                -- KMP
+%
+They laughed at Columbus, they laughed at Fulton, they laughed at the
+Wright brothers.  But they also laughed at Bozo the Clown.
+                -- Carl Sagan
+%
+A hack is a terrible thing to waste, please give to the implementation of
+your choice...
+                -- GJC
+%
+Random hacker: Oz needs to be booted.
+RMS: Ok, I'll break open a window.
+%
+She'd envied the students in business administration.  They got up in the
+morning at reasonable hours, dressed as well as their purses permitted, and
+studied with moderate diligence, knowing it would pay them in the end.  Of
+course, these were a different breed, and in a way a lesser breed, for Liz
+was an engineer.
+%
+As long as there are ill-defined goals, bizarre bugs, and unrealistic
+schedules, there will be Real Programmers willing to jump in and Solve The
+Problem, saving the documentation for later.  Long live FORTRAN!
+%
+"There must be some way to read input from the terminal...."
+                -- Mly
+%
+"A statement is either correct or incorrect.  To be *very* incorrect is
+ like being *very* dead ... "
+                -- Herbert F. Spirer
+                   Professor of Information Management
+                   University of Conn.
+                   (DATAMATION Letters, Sept. 1, 1984)
+%
+"... psychologists sometimes refer to perception as controlled
+hallucination ..."
+                -- B. K. P. Horn
+                   6.866/6.801 Lecture
+%
+"The wrath of Holloway is nothing compared to the wrath of Moon."
+                -- Fred Drenckhahn
+%
+"It's the sort of mail you should wear a welding helmet while reading...."
+                -- Dave Moon
+%
+Barf, what is all this prissy pedantry?  Groups, modules, rings, ufds,
+patent-office algebra.  Barf!
+                -- R. William Gosper
+%
+I think that helps the users too much.
+		-- CSTACY
+%
+A good rule of thumb is never to use PROG under any circumstances for
+anything.
+                -- Dave Moon
+%
+The purpose of an undergraduate education at MIT is to give you a case of
+post-traumatic stress syndrome that won't wear off for forty years.
+%
+If I could put Klein in a bottle...
+%
+If anyone ever markets a really well-documented Unix that doesn't require
+babysitting by a phalanx of provincial Unix clones, there'll be a lot of
+unemployable, twinky-braindamaged misfits out deservedly pounding the
+pavements.
+%
+It's like a house of cards that Godzilla has been blundering through.
+                -- Moon, describing how system messages work on ITS
+%
+... Turns out that JPG was in fact using his brain... and I am inclined to
+encourage him to continue the practice even if it isn't exactly what I
+would have done myself.
+                -- Alan Bawden (way out of context)
+%
+Bawden is misinformed.  Common Lisp has no philosophy.  We are held
+together only by a shared disgust for all the alternatives.
+        -- Scott Fahlman, explaining why Common Lisp is the way it is....
+%
+Well, it's assembly language, you know.  You don't want to have too much
+taste...
+                -- Dave Moon
+%
+Jeez, got me.  Unix is sorta like Heroin, It feels good for about 5 minutes
+a day and horrible the rest of the time.
+                -- Jim O'Dell
+%
+Anyway I know how to not be bothered by consing on the fly.
+                -- Dave Moon
+%
+My dog appears to require more PM than my car, although he also seems to be
+cheaper to service.
+                -- GSB
+%
+The software isn't finished until the last user is dead.
+%
+ u	  x
+e du dx, e dx!
+cosine, tangent, secant, sine!
+3.14159!
+square root, integral, u dv!
+slipstick, slide rule, MIT!
+
+logarithm, logarithm, Tech, Tech, Tech!
+%
+All syllogisms have three parts, therefore this is not a syllogism.
+%
+All the world's an analog stage, and digital circuts play only bit parts.
+%
+The average woman would rather have beauty than brains because the average
+man can see better than he can think.
+%
+Bushydo, the way of the shrub -- BONSAI!
+%
+Chaotic Evil means never having to say you're sorry.
+%
+DO IT -- it's easier to get forgiveness than permission.
+%
+Do not meddle in the affairs of wizards, for it makes them soggy and hard
+to light.
+%
+The first cup of coffee recapitulates phylogeny.
+%
+43% of all statistics are worthless.
+%
+Go, lemmings, go!
+%
+God didn't create the world in seven days -- He goofed off for six then
+pulled an all-nighter.
+%
+God is real unless declared integer.
+%
+If all the economists in the world were laid end to end, it would probably
+be a good thing.
+%
+If we were meant to fly, we wouldn't keep losing our luggage.
+%
+If you eat a live frog in the morning, nothing worse will happen to either
+of you for the rest of the day.
+%
+If you're not part of the solution, you're part of the precipitate.
+%
+I'm not born again -- my mother got it right the first time.
+%
+Implementing systems is 95% boredom and 5% sheer terror.
+%
+Is the surface of a planet the right place for an expanding technological
+civilization?
+%
+Let me control a planet's oxygen supply and I don't care who makes the
+laws.
+%
+Life's a duck, and then you sigh.
+%
+The light at the end of the tunnel may be an oncoming dragon.
+%
+Nobody can fix the economy.  Nobody can be trusted with their finger on the
+button.  Nobody's perfect.  VOTE FOR NOBODY.
+%
+1.79E12 furlongs/fortnight -- it's not just a good idea, it's the law.
+%
+Paranoid schizophrenics outnumber their enemies at least two to one.
+%
+Pound for pound, the amoeba is the most vicious animal on earth.
+%
+The shortest distance between two puns is a straight line.
+%
+Now is a good time to spend a year dead for tax purposes.
+%
+There are many intelligent species in the universe.  They are all owned by
+cats.
+%
+There are few personal problems which can't be solved by the suitable
+application of high explosives.
+%
+There is no TRUTH.
+There is no REALITY.
+There is no CONSISTANCY.
+There are no absolute statements.
+I'm probably wrong.
+%
+A VAX is virtually a computer, but not quite.
+%
+Walk softly and carry a megawatt laser.
+%
+The way to a man's heart is with a broadsword.
+%
+We'll know that rock is dead when you have to have a degree to get a job in
+it.
+%
+Windows and Icons and Mice, OH MY!
+%
+You are wise, witty, and wonderful, but you spend too much time reading
+stupid fortune messages.
+%
+You can lead a horse to water, but if you can get him to swim on his back,
+you've got something.
+%
+You know better than to trust a strange computer.
+%
+They'll take my PDP-10 away when they pry my cold dead fingers off the
+switch registers.
+%
+Non-determinism means never having to say you're wrong.
+%
+Those who do not learn from history, loop.
+%
+We're Thinking Machines, so we don't have to.
+%
+It has every known bug fix to everything.
+                -- KLH (out of context)
+%
+The Three Laws of Thermodynamics:
+   1) You can't win, only lose or break even.
+   2) You can only break even at absolute zero.
+   3) You can't get to absolute zero.
+%
+It is usually a good idea to put a capacitor of a few microfarads across
+the output, as shown.
+%
+In MDDT, no one can hear you scream...
+But everybody can hear you say "whoops!"
+%
+Not only am I thrown into the error handler, through no fault of my own
+(I'm not responsible for this deficiency in Zmail), but then the system
+RUBS MY NOSE IN THE MESS by forcing me to give it permission to screw me
+further.  "I'm sorry, but I have just accidentally driven an eight-inch
+spike halfway into your skull, you have two choices: either you can let me
+finish and drive it the rest of the way in, or I can ask you this question
+again."
+                -- Alan Bawden
+%
+When I first started taking these drugs, it was the government and the CIA
+who gave them to us.  You want to know why I believe in God?  That's why.
+God has a sense of humor.  God says "Americans are really seized up in
+their lower bowels, needing something to ooze them up."  God thought, "let
+the CIA give it to them."  When you get that feeling something's laughing,
+that's God.
+                -- Ken Kesey
+%
+Andre Glucksman ... said [to me] "do you know what you accomplished?  You
+added the idea to revolutionary theory that revolution could be fun.  Only
+someone as silly as an American could do that."
+		-- Abbie Hoffman
+%
+Next year in L5.
+%
+I'm sure glad we're having this "How many FTP transfers can dance on the
+head of a chargeback packet" conversation now, because when chargebacks
+happen, it will surely be too expensive to read these amazing
+conversations.
+%
+;;;  Nobody except a qualified mail wizard should ever modify	     ;;;
+;;;  this file.  You are -not- a mail wizard just because you	     ;;;
+;;;  know how to read your mail.  Fuck with this file, and I'll	     ;;;
+;;;  cut your balls off.  -Alan					     ;;;
+%
+Johnny was young.  Too young to remember Woodstock.  But the name sounded
+awesome, so he bought two tickets.
+                     ONE WAY TICKETS TO A LIVING HELL!
+They were two innocent, hardcore punks, caught in a nightmare world of
+sheer mellow-ness!  It was the ...
+                        NIGHT OF THE GRATEFUL DEAD!
+                      [The Band That Wouldn't Die...]
+%
+I really only meant to point out how nice InterOp was for someone who
+doesn't have the weight of the Pentagon behind him.  I really don't imagine
+that the Air Force will ever be able to operate like a small, competitive
+enterprise like GM or IBM.
+                -- Kent England
+%
+The large print giveth and the small print taketh away.
+%
+Lisp stoppped itself
+FEP Command:
+%
+I die.  My replacement reads my uncommented code and deletes a
+fragment he doesn't understand.  Eventually the subroutine is sold to
+the government, and the bug causes nuclear missles to be launched by
+accident.  The other side retaliates, and all die.  O the embarrassment.
+%
+Think of C++ as an object-oriented assembly language.
+                -- Bruce Hoult (bruce@hoult.actrix.gen.nz)
+%
+The only thing better than TV with the sound off is Radio with the sound
+off.
+                -- Dave Moon
+%
+A host is a host from coast to coast
+And nobody talks to a host that's close
+Unless the host that isn't close
+Is busy, hung or dead...
+%
+Since oral sex is topologically equivalent to anal sex, converting one
+to the other is simply a matter of finding the right conformal map.
+Currently I only have solutions for a spherical girlfriend.
+                -- Robert Bowler
+%
+Hey, diddle, diddle the overflow pdl
+To get a little more stack;
+If that's not enough then you lose it all
+And have to pop all the way back.
+                -- The Great Quux
+%
+Wiener's Law of Libraries:
+        There are no answers, only cross references.
+%
+;;; Halley
+
+(Halley's Comment)
+%
+It worked about as well as sticking a blender in the middle of a lime
+plantation and hoping they'll make margaritas out of themselves.
+                -- Frederick J. Polsky v1.0
+%
+HOST SYSTEM RESPONDING, PROBABLY UP...
+%
+/* I'd just like to take this moment to point out that C has all
+   the expressive power of two dixie cups and a string.
+ */
+                -- Jamie Zawinski in the XKeyCaps source
+%
+She can kill all your files;
+She can freeze with a frown.
+And a wave of her hand brings the whole system down.
+And she works on her code until ten after three.
+She lives like a bat but she's always a hacker to me.
+                -- Apologies to Billy Joel
+%
+When I met th'POPE back in '58, I scrubbed him with a MILD SOAP or
+DETERGENT for 15 minutes.  He seemed to enjoy it ...
+%
+Functions delay binding; data structures induce binding.
+
+Moral: Structure data late in the programming process.
+                -- Alan Perlis
+%
+Recursion is the root of computation since it trades description for time.
+                -- Alan Perlis
+%
+In the long run every program becomes rococo - then rubble.
+                -- Alan Perlis
+%
+Everything should be built top-down, except the first time.
+                -- Alan Perlis
+%
+A language that doesn't affect the way you think about programming,
+is not worth knowing.
+                -- Alan Perlis
+%
+Optimization hinders evolution.
+                -- Alan Perlis
+%
+A good system can't have a weak command language.
+                -- Alan Perlis
+%
+For systems, the analogue of a face-lift is to add to the control graph an
+edge that creates a cycle, not just an additional node.
+                -- Alan Perlis
+%
+You can measure a programmer's perspective by noting his attitude on
+the continuing vitality of FORTRAN.
+                -- Alan Perlis
+%
+As Will Rogers would have said, "There is no such thing as a free variable."
+                -- Alan Perlis
+%
+When we understand knowledge-based systems, it will be as before --
+except our fingertips will have been singed.
+                -- Alan Perlis
+%
+A LISP programmer knows the value of everything, but the cost of nothing.
+                -- Alan Perlis
+%
+In computing, invariants are ephemeral.
+                -- Alan Perlis
+%
+When we write programs that "learn", it turns  out  that we do
+and they don't.
+                -- Alan Perlis
+%
+If we believe in data structures, we must believe in independent
+(hence simultaneous) processing.  For why else would we collect items
+within a structure?  Why do we tolerate languages that give us the one
+without the other?
+                -- Alan Perlis
+%
+Over the centuries the Indians developed sign language for communicating
+phenomena of interest.  Programmers from different tribes (FORTRAN, LISP,
+ALGOL, SNOBOL, etc.) could use one that doesn't require them to carry
+a blackboard on their ponies.
+                -- Alan Perlis
+%
+It is the user who should parameterize procedures, not their creators.
+                -- Alan Perlis
+%
+Motto for a research laboratory: What we work on today,
+others will first think of tomorrow.
+                -- Alan Perlis
+%
+Though the Chinese should adore APL, it's FORTRAN they put their money on.
+                -- Alan Perlis
+%
+Computation has made the tree flower.
+                -- Alan Perlis
+%
+The computer is the ultimate polluter: its feces are indistinguishable
+from the food it produces.
+                -- Alan Perlis
+%
+Interfaces keep things tidy, but don't accelerate growth: functions do.
+                -- Alan Perlis
+%
+Objects keep things tidy, but don't accelerate growth: inheritance does.
+                -- James A. Crippen (after Alan Perlis)
+%
+In man-machine symbiosis, it is man who must adjust: The machines can't.
+                -- Alan Perlis
+%
+Purely applicative languages are poorly applicable.
+                -- Alan Perlis
+%
+The proof of a system's value is its existence.
+                -- Alan Perlis
+[Thus implying COBOL and JCL /do/ have some value after all!  Ed.]
+%
+Editing is a rewording activity.
+                -- Alan Perlis
+[And EMACS a rewording editor.  Ed.]
+%
+Computer Science is embarrassed by the computer.
+                -- Alan Perlis
+%
+The only constructive theory connecting neuroscience and psychology
+will arise from the study of software.
+                -- Alan Perlis
+[To the endless aggravation of both disciplines.  Ed.]
+%
+You think you know when you can learn, are more sure when you can write,
+even more when you can teach, but certain when you can program.
+                -- Alan Perlis
+%
+Programming is an unnatural act.
+                -- Alan Perlis
+%
+It goes against the grain of modern education to teach children to program.
+What fun is there in making plans, acquiring discipline in organizing
+thoughts, devoting attention to detail and learning to be self-critical?
+                -- Alan Perlis
+%
+	After the ordeal, we went back to the Factory. Greenblatt said he
+was gonna locate us in a cell. He said: "Kid, I'm gonna INTERN you in a
+cell. I want your manual and your mouse."
+	I said, "Greenblatt, I can understand your wantin' my manual, so
+I don't have any documentation about the cell, but what do you want my
+mouse for?" and he said, "Kid, we don't want any window system problems".
+I said, "Greenblatt, did you think I was gonna deexpose myself for
+litterin'?"
+	Greenblatt said he was makin' sure, and, friends, Greenblatt
+was, 'cause he took out the left Meta-key so I couldn't double bucky the
+rubout and cold-boot, and he took out the Inspector so I couldn't
+click-left on Modify, set the PROCESS-WARM-BOOT-ACTION on the window,
+*THROW around the UNWIND-PROTECT and have an escape. Greenblatt was
+makin' sure.
+                -- from Alice's Lispm (or MIT's AI Lab)
+%
+	Because Greenblatt came to the realization that it was a typical
+case of LCS state-of-the-art technology, and there wasn't nothin' he
+could do about it, and the judge wasn't gonna look at the seventeen
+1K-by-32 pixel multi-flavored windows with turds and arrows and
+documentation panes, explainin' what each one was, to be used as
+evidence against us.
+	And we was fined fifty zorkmids and had to rebuild the world
+load...in the snow.
+                -- from Alice's Lispm (or MIT's AI Lab)
+%
+	I went up there, I said, "Eliot, I wanna lose. I wanna lose!
+I wanna see hacks and kludges and unbound variables and cruft in my
+code! Eat dead power supplies with cables between my teeth! I mean
+lose! lose! lose!"
+	And I started jumpin' up and down, yellin' "LOSE! LOSE! LOSE!"
+and Stallman walked in and started jumpin' up and down with me, and we
+was both jumpin' up and down, yellin', "LOSE! LOSE! LOSE! LOSE!!" and
+some professor came over, gave me a 6-3 degree, sent me down the hall,
+said "You're our distinguished lecturer." Didn't feel too good about it.
+                -- from Alice's Lispm (or MIT's AI Lab)
+%
+	He stopped me right there and said, "Kid, I want you to go over
+and sit down on that bench that says 'LISP Machine Group'... NOW, KID!"
+	And I walked over to the bench there, and there's... The LISP
+Machine Group is where they put you if you may not be moral enough to
+join Symbolics after creatin' your special form.
+	There was all kinds of mean, nasty, ugly-lookin' people on the
+bench there ... there was Microcoders, DPL hackers, File System
+hackers, and Window System Hackers!! Window System hacker sittin'
+right there on the bench next to me! And the meanest, ugliest,
+nastiest one... the kludgiest Window System hacker of them all... was
+comin' over to me, and he was mean and ugly and nasty and horrible and
+all kinds of things, and he sat down next to me. He said, "Kid, you
+get a new copy of the sources?" I said, "I didn't get nothin'. I had
+to rebuild the world load."
+	He said, "What were you arrested for, kid?" and I said,
+"Littering..." And they all moved away from me on the bench there,
+with the hairy eyeball and all kinds of mean, nasty things, 'til I
+said, "And making gratuitous modifications to LMIO; sources..." And
+they all came back, shook my hand, and we had a great time on the
+bench talkin' about microcoding, DPL designing, file-system hacking,
+... and all kinds of groovy things that we was talkin' about on the
+bench, and everything was fine.
+                -- from Alice's Lispm (or MIT's AI Lab)
+%
+You can hack anything you want
+on MIT Lisp Machines
+You can hack anything you want
+on MIT Lisp Machines
+Walk right in and begin to hack
+Just push your stuff right onto the stack
+You can hack anything you want
+on MIT Lisp Machines
+
+(but dont forget to fix the bug...on MIT Lisp Machines!)
+                -- from Alice's Lispm (or MIT's AI Lab)
+%
+Real Programmers are surprised when the odometers in their cars don't
+turn from 99999 to A0000.
+%
+You are connected t&%&ibp*l an error free line.
+%
+Mail should be at least a mixture of upper and lower case.  Devising
+your own font (Devanagari, pinhead graphics, etc.) and using it in the
+mail is a good entertainment tactic, as is finding some way to use
+existing obscure fonts.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+It is considered artful to append many messages on a subject, leaving
+only the most inflammatory lines from each, and reply to all in one
+swift blow.  The choice of lines to support your argument can make or
+break your case.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+Replying to one's own message is a rarely-exposed technique for
+switching positions once you have thought about something only after
+sending mail.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+State opinions in the syntax of fact: "...as well as the bug in LMFS
+where you have to expunge directories to get rid of files....."
+                -- from the Symbolics Guidelines for Sending Mail
+%
+If you have nothing to say on a subject, replying with a line such as,
+"I agree with this." puts you in the TO:'s for all future messages, and
+establishes you as "one who really cares", if not an actual expert, on
+the topic at hand.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+Inclusion of very old messages from others makes for an impressive show.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+People can be set wondering by loading obscure personal patchable
+systems, and sending bug reports.  Who would not stop and wonder upon
+seeing "Experimental TD80-TAPE 1.17, MegaDeath 2.5..."?  The same for
+provocatively-named functions and variables in stack traces.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+Know the list of "large, chronic problems".  If there is any problem
+with the window system, blame it on the activity system.  Any lack of
+user functionality should be attributed to the lack of a command
+processor.  A suprisingly large number of people will believe that you
+have thought in depth about the issue to which you are alluding when you
+do.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+Know how to blow any problem up into insolubility.  Know how to use the
+phrase "The new ~A system" to insult its argument, e.g., "I guess this
+destructuring LET thing is fixed in the new Lisp system", or better yet,
+PROLOG.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+Never hit someone head on, always sideswipe.  Never say, "Foo's last
+patch was brain-damaged", but rather, "While fixing the miscellaneous
+bugs in 243.xyz [foo's patch], I found...."
+                -- from the Symbolics Guidelines for Sending Mail
+%
+Idiosyncratic indentations, double-spacing, capitalization, etc., while
+stamps of individuality, leave one an easy target for parody.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+Strong language gets results.  "The reloader is completely broken in
+242" will open a lot more eyes than "The reloader doesn't load files
+with intermixed spaces, asterisks, and <'s in their names that are
+bigger than 64K".  You can always say the latter in a later paragraph.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+Including a destination in the CC list that will cause the recipients'
+mailer to blow out is a good way to stifle dissent.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+When replying, it is often possible to cleverly edit the original
+message in such a way as to subtly alter its meaning or tone to your
+advantage while appearing that you are taking pains to preserve the
+author's intent.  As a bonus, it will seem that your superior
+intellect is cutting through all the excess verbiage to the very heart
+of the matter.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+Referring to undocumented private communications allows one to claim
+virtually anything: "we discussed this idea in our working group last
+year, and concluded that it was totally brain-damaged".
+                -- from the Symbolics Guidelines for Sending Mail
+%
+Points are awarded for getting the last word in.  Drawing the
+conversation out so long that the original message disappears due to
+being indented off the right hand edge of the screen is one way to do
+this.  Another is to imply that anyone replying further is a hopeless
+cretin and is wasting everyone's valuable time.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+Keeping a secret "Hall Of Flame" file of people's mail indiscretions,
+or copying messages to private mailing lists for subsequent derision,
+is good fun and also a worthwhile investment in case you need to
+blackmail the senders later.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+Users should cultivate an ability to make the simplest molehill into a
+mountain by finding controversial interpretations of innocuous
+sounding statements that the sender never intended or imagined.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+Obversely, a lot of verbal mileage can also be gotten by sending out
+incomprehensible, cryptic, confusing or unintelligible messages, and
+then iteratively "correcting" the "mistaken interpretations" in the
+replys.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+Trivialize a user's bug report by pointing out that it was fixed
+independently long ago in a system that hasn't been released yet.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+Send messages calling for fonts not available to the
+recipient(s).  This can (in the case of Zmail) totally disable
+the user's machine and mail system for up to a whole day in some
+circumstances.
+                -- from the Symbolics Guidelines for Sending Mail
+%
+    This is a tale of a sorry quest
+    To master pure code at the T guru's behest
+    I enrolled in a class that appealing did seem
+    For it promised to teach fine things like T3 and Scheme
+
+    The first day went fine; we learned of cells
+    And symbols and lists and functions as well
+    Lisp I had mastered and excited was I
+    For to master T3 my hackstincts did cry
+
+    I sailed through the first week with no problems at all
+    And I even said "closure" instead of "function call"
+    Then said the master that ready were we
+    To start real hacking instead of simple theory
+
+    ...
+                -- Ashwin Ram,
+                   "A Short Ballad Dedicated to Program Growth"
+%
+    ...
+
+    Will you, said he, write me a function please
+    That in lists would associate values with keys
+    I went home and turned on my trusty Apollo
+    And wrote a function whose definition follows:
+
+        (cdr (assq key a-list))
+
+    A one-liner I thought, fool that I was
+    Just two simple calls without a COND clause
+    But when I tried this function to run
+    CDR didn't think that NIL was much fun
+
+    ...
+                -- Ashwin Ram,
+                   "A Short Ballad Dedicated to Program Growth"
+%
+    ...
+
+    So I tried again like the good King of yore
+    And of code I easily generated some more:
+
+        (cond ((assq key a-list) => cdr))
+
+    It got longer but purer, and it wasn't too bad
+    But then COND ran out and that was quite sad
+
+    ...
+                -- Ashwin Ram,
+                   "A Short Ballad Dedicated to Program Growth"
+%
+    ...
+
+    Well, that isn't hard to fix, I was told
+    Just write some more code, my son, be bold
+    Being young, not even a moment did I pause
+    I stifled my instincts and added a clause
+
+        (cond ((assq key a-list) => cdr)
+              (else nil))
+
+    Sometimes this worked and sometimes it broke
+    I debugged and prayed and even had a stroke
+    Many a guru tried valiantly to help
+    But undefined datums their efforts did squelch.
+
+    ...
+                -- Ashwin Ram,
+                   "A Short Ballad Dedicated to Program Growth"
+%
+    ...
+
+    I returneth once more to the great sage of T
+    For no way out of the dilemma I could see
+    He said it was easy -- more lines must I fill
+    with code, for FALSE was no longer NIL.
+
+        (let ((val (assq key a-list)))
+           (cond (val (cdr val))
+                 (else nil)))
+
+    You'd think by now I might be nearing the end
+    Of my ballad which seems bad things to portend
+    You'd think that we could all go home scot-free
+    But COND eschewed VAL; it wanted #T
+
+    ...
+                -- Ashwin Ram,
+                   "A Short Ballad Dedicated to Program Growth"
+%
+    ...
+
+    So I went back to the master and appealed once again
+    I said, pardon me, but now I'm really insane
+    He said, no you're not really going out of your head
+    Instead of just VAL, you must use NOT NULL instead
+
+        (let ((val (assq key a-list)))
+           (cond ((not (null? val)) (cdr val))
+                 (else nil)))
+
+    My song is over and I'm going home to bed
+    With this ineffable feeling that I've been misled
+    And just in case my point you have missed
+    Somehow I preferred (CDR (ASSQ KEY A-LIST))
+                -- Ashwin Ram,
+                   "A Short Ballad Dedicated to Program Growth"
+%
+Mary had a little lambda
+A sheep she couldn't clone
+And every where that lambda went
+Her calculus got blown
+%
+... The book [CLtL1] is about 400 pages of 8.5" by 11" Dover output.
+Apparently the publisher and typesetter decided that this made the lines
+too wide for easy reading, so they will use a 6" by 9" format.  This
+will make the shape of the book approximately cubical.  Now, there are
+26 chapters counting the index, and a Rubik's cube has 26 exterior cubies.
+I'll let you individually extrapolate and fantasize from there.
+                -- GLS
+%
+Clearly one can make this generalization and people can live with it.
+We could make the generalization that LIST can take some other options,
+perhaps stating that we want a CDR-coded list, and it can define some
+accessor functions, and some auxilliary storage, and make arrays a
+specialization of CONS cells, but that would be silly (wouldn't it??).
+
+The point is that vectors are a useful enough concept to not need to suffer
+being a specialization of something else.
+
+The political point I will not make, but will leave to your imagination.
+                -- RPG
+                   (Referring to the 'Vectors vs Arrays' debate during
+                    the Common Lisp debates.)
+%
+When my grandchildren, if any, ask me why certain things turned out in
+somewhat ugly ways, I will tell them that it is for the same reason that
+slaves count as 3/5 of a person in the U.S. Constitution -- that is the
+price you pay for keeping the South on board (or the North, depending).
+A few such crocks are nothing to be ashamed of, as long as the language
+is still something we all want to use.  Even with the recent spate of
+ugly compromises, I think we're doing pretty well overall.
+                -- Scott E. Fahlman (during the Common Lisp debates)
+%
+SIGTHTBABW: a signal sent from Unix to its programmers at random
+intervals to make them remember that There Has To Be A Better Way.
+                -- Erik Naggum
+%
+The Larceny Carol
+
+
+                O Larceny, O Larceny,
+                Hygienic are your macros.
+                O Larceny, O Larceny,
+                Hygienic are your macros.
+                You lift known lambdas node by node,
+                Compiling them to native code.
+                O Larceny, O Larceny,
+                Hygienic are your macros.
+
+
+                O Larceny, O Larceny,
+                Collecting garbage quickly.
+                O Larceny, O Larceny,
+                Collecting garbage quickly.
+                With generations as you please,
+                From oldest-first to nurseries,
+                O Larceny, O Larceny,
+                Collecting garbage quickly.
+
+                -- William D. Clinger
+%
+Visual Basic is not an object oriented language, it is an object based
+language.  It is a poor imitation of an object system for a poor
+imitation of a programming language that poor imitations of
+programmers use to write poor imitations of programs for poor
+imitations of employers who pay poor imitations of programmers
+salaries.  I think I beat that one to death.
+                -- Jim H. Jacobs, CS403: Object Oriented Programming
+%
+I have stopped reading Stephen King novels.  Now I just read C code
+instead.
+                -- Richard A. O'Keefe
+%
+C program run -- Run program run -- Run, C program, Run! -- (please)
+%
+The last good thing written in C was Franz Schubert's Symphony number 9.
+                -- Erwin Dieterich
+%
+When your hammer is C++, everything begins to look like a thumb.
+                -- Steve Hoflich on compl.lang.c++
+%
+Being really good at C++ is like being  really good at using rocks to
+sharpen sticks.
+                -- Thant Tessman
+%
+"So, when you typed in the date, it exploded into a sheet of blue
+flame and burned the entire admin wing to the ground? Yes, that's a
+known bug. We'll be fixing it in the next release. Until then, try not
+to use European date format, and keep an extinguisher handy."
+                -- slam@pobox.com (Tequila Rapide)
+%
+> Feel free to post more examples of "Why c++ sucks". ;-)
+
+Read through the C++ Public Review Document and look for occurences of
+the phrases "behavior is undefined" and especially "no diagnostic is
+required".
+
+Or here's an even simpler indicator of how much C++ sucks: Print out
+the C++ Public Review Document. Have someone hold it about three feet
+above your head and then drop it. Thus you will be enlightened.
+                -- Thant Tessman
+%
+(eq? 'truth 'beauty)  ; to avoid unassigned-var error, since compiled code
+                      ; will pick up previous value to var set!-ed,
+                      ; the unassigned object.
+                -- from BBN-CL's cl-parser.scm
+%
+ITEM 163 (Sussman):
+
+To exchange two variables in LISP without using a third variable:
+
+(SETQ X (PROG2 0 Y (SETQ Y X)))
+%
+ITEM 172 (Gosper):
+
+The fundamental operation for building list structure, called CONS, is
+defined  to:  find a free cell  in  memory, store the  argument in it,
+remove it from the set of free cells, return a pointer to it, and call
+the garbage collector when  the set is empty. This  can be done in two
+instructions:
+
+CONS:   EXCH A,[EXCH A,[...[PUSHJ P,GC]...]]
+        EXCH A,CONS
+
+Of course, the address-linked chain of EXCH's indicated by the nested
+brackets is concocted by the garbage collector. This method has the
+additional advantage of not constraining an accumulator for the free
+storage pointer.
+
+UNCONS: HRLI A,(EXCH A,)
+        EXCH A,CONS
+        EXCH A,@CONS
+
+Returns cell addressed by A to free storage list; returns former cell
+contents in A.
+%
+			The HACTRN
+
+Once before a console dreary, while I programmed, weak and weary,
+Over many a curious program which did TECO's buffer fill, --
+While I pondered, nearly sleeping, suddenly there came a feeping,
+As of something gently beeping, beeping with my console's bell.
+"'Tis my DDT," I muttered, "feeping on my console's bell:
+	Once it feeped, and now is still."
+
+Ah, distinctly I remember that dark night in bleak December,
+And each separate glowing symbol danced before me, bright and chill.
+Eagerly I wished the morrow; vainly I had sought to borrow
+From my HACTRN aid for sorrow -- sorrow for the bugs which fill --
+For the strange unknown and nameless bugs which ever all my programs fill --
+	Bugs which now I searched for still.
+
+And the coughing, whirring, gritty fan I heard inside my TTY
+Made me with fantastic terrors never known before to thrill;
+So that now, to still the beating of my heart I stood repeating,
+"'Tis some interrupt entreating DDT to signal me --
+Some strange interrupt entreating DDT to signal me --
+	Its importance surely nil."
+
+Presently my soul grew stronger: hesitating then no longer
+I decided that I would respond to this strange program's call;
+TECO, which I then attended, to my soul more strength extended;
+With ^Z I ascended, going to my DDT --
+<esc><esc>V I typed, and answered soon my DDT --
+	TECO there, and that was all!
+
+Dumbly at my console peering, as I sat there, wondering, fearing,
+Doubting now that any interrupt was ever there to call;
+But the silence was unbroken, and my HACTRN gave no token,
+And the only sound there spoken from my TTY's whirring fan --
+The low and rough and distant sound came from my TTY's whirring fan --
+	TECO there, and that was all.
+
+Back into my TECO going, with my pounding heart now slowing,
+Soon again I heard a feeping, somewhat louder than before.
+"Surely," said I, "surely this is some strange bug of RMS's
+Which an interrupt professes, though I have no other job;
+Let me then ask DDT if it thinks there's another job --
+	'Tis a bug, and nothing more!"
+
+Again I went up to my HACTRN while cold shivers up my back ran
+<esc><esc>V I typed, my jobs now once more to display.
+Only TECO was there listed; though my trembling heart resisted
+Yet I willed my hand, insisted, <esc>J to quickly type --
+To answer this bold query DDT did hesitantly type
+	A ghostly "FOOBARJ".
+
+From <esc><esc>V protected, now, this phantom job, selected
+Gave no clue to why it had invoked that former beeping shrill.
+"Though," I said, "you're no inferior, I shall act as your superior
+And examine your interior, this strange matter to explore."
+Then I typed a 0/ this matter further to explore --
+	Quoth the HACTRN, ":KILL".
+
+Much I worried -- this outrageous bug might prove to be contagious,
+Though thus far it had not seemed to do my TECO any ill:
+For we cannot help concurring such a bug would cause a stirring,
+Feeping on a console whirring, disappearing then from sight --
+An evanescent mystery subjob disappearing then from sight
+	With no clue but ":KILL"!
+
+But my HACTRN, swapping, running, gave no further sign of cunning
+By this unknown phantom, which was in a thirty second sleep;
+None of this I comprehended; to my TECO I descended,
+And in terror I pretended that the bug had gone away --
+I pretended that for good the mystery bug had gone away --
+	When my console gave a feep.
+
+Now I quickly, hoping, praying, started up a PEEK displaying
+All the the jobs and subjobs there which did the system fill:
+What I found was quite unpleasant, for there was no FOOBAR present:
+Only TECO was there present, underneath my DDT;
+I quit the PEEK, and "FOOBAR<esc>J" typed out my DDT --
+	Then quoth the HACTRN, ":KILL".
+
+But -- this FOOBAR now beguiling all my sad soul into smiling --
+I tightly grinned, determined that this glitch should cause nobody ill;
+Now, into my armchair sinking, I betook myself to linking
+Fancy unto fancy, thinking why this unknown phantom job --
+Why this grim, ungainly, ghastly, gaunt, and unknown phantom job
+	Feeped and did a ":KILL".
+
+This I sat engaged in guessing, but conceived no thought expressing
+How a phantom job could sound those strange and ghostly beeps;
+This and more I sat divining, with my head at ease reclining,
+With the symbols coldly shining at me from the CRT,
+With the bright, sharp symbols coldly shining on the CRT --
+	Which suddenly gave seven feeps!
+
+Then methought the air grew denser, filled with clouds which grew immenser,
+As when under darkened daylight thick and stormy weather brews;
+With some bit of hesitation stemming from my trepidation
+Again I typed that incantation finding out how much I'd lose --
+<esc><esc>V I typed again to find how much I'd lose --
+	TECO there, and seven FOOs!
+
+"Job!" said I, "with ghostly manner! -- subjob still, if LISP or PLANNER!
+Whether accident, or feeping as another hacker wills!
+Tell me now why I am losing, why my HACTRN you're abusing,
+Which no doubt is of your choosing: echo truly on my screen!"
+Then DDT as if in answer echoed quickly on my screen,
+	Typing seven ":KILLs".
+
+"Job!" said I, "with ghostly manner! -- subjob still, if LISP or PLANNER!
+By the ITS above us which the DSKDMP doth fulfill,
+I shall be the system's saviour: I shall mend your crude behaviour,
+I shall halt your strange behaviour, and thee from the system lock!"
+Madly, wildly laughing I made DDT invoke a LOCK,
+	And quickly typed thereat -- "5KILL"!
+
+"Be this now our sign of parting, phantom job!" I shrieked, upstarting,
+As my HACTRN now informed me ITS was going down in 5:00.
+"You have run your last instruction and performed your final function!"
+But, refuting this deduction HACTRN then my TTY grabbed --
+To type out yet another message HACTRN now my TTY grabbed --
+	Quoth the HACTRN, "ITS REVIVED!"
+
+And the FOOBAR, never sleeping, still is beeping, still is beeping
+On the glaring console out from which I cannot even log!
+And other happenings yet stranger indicate inherent danger
+When bugs too easily derange or mung the programs of machines;
+When programs too "intelligent" start taking over the machines:
+	Is this the end of AutoProg?
+
+				-- The Great Quux
+				     (with apologies to
+					Edgar Allan Poe)
+%
+                  Lambda Bound
+
+           [to be sung to the tune of
+                 Homeward Bound]
+
+
+I'm just a little value cell,
+And I play my special role so well --
+        Hmmm --
+Serving as a global switch
+To predicate some system glitch;
+But some strange value -- who knows which? --
+Could cause me functions to bewitch!
+        Lambda bound!
+I wish I was
+        Lambda bound!
+Bound, so no SETQ's get me;
+Bound, so quits will reset me;
+Bound, where I can forget my
+        Top-level value.
+
+It's hard to catch those system screws:
+'Most any value causes me to lose --
+        Hmmm --
+Each atom looks the same to me,
+Whose interned name I cannot see,
+And every NIL and every T
+Reminds me that I long to be
+        Lambda bound!
+I wish I was
+        Lambda bound!
+Bound, so no SETQ's get me;
+Bound, so quits will reset me;
+Bound, where I can forget my
+        Top-level value.
+
+Next time I'll have a MAR break set
+And try to catch each clobber threat --
+        Hmmm, mmmm --
+The next covert attempt to mung
+Will cause the MAR break to be sprung,
+But then the poor LISP will be hung
+Because I'm not as I have sung:
+        Lambda bound!
+I wish I was
+        Lambda bound!
+Bound, so no SETQ's get me;
+Bound, so quits will reset me;
+Bound, where I can forget my
+        Top-level value.
+
+
+              -- The Great Quux
+                   (with apologies to
+                      Paul Simon)
+%
+                My Favorite Hacks
+           [to be sung to the tune of
+                          My Favorite Things
+            from The Sound of Music]
+
+
+Circular MAPCAR and ANDCA'd negation,
+Indirect JMP auto-incrementation,
+Tangled spaghetti embroidered in stacks:
+These are a few of my favorite hacks.
+
+Mismatched DEFINE-TERMIN pairs with .QUOTEing,
+Misbalanced brackets for macroed remoting,
+PDP-6's with chess tourney plaques:
+These are a few of my favorite hacks.
+
+LAMBDAs as GO TOs and spooling on TPLs,
+Flip-flops and bit drops and TRCE's in triples,
+Crufty heuristics that prune minimax:
+These are a few of my favorite hacks.
+
+When the bugs strike,
+When the disks crash,
+When I read this verse,
+I simply remember my favorite hacks
+And then I feel even worse!
+
+                -- The Great Quux
+                     (with apologies to
+                        Rodgers and Hammerstein)
+%
+                 PLIate's Dream
+
+           [to be sung to the tune of
+                 Pilate's Dream
+          from Jesus Christ Superstar]
+
+
+I dreamed I was a brand new language,
+The ultimate in speed;
+I handled strings as fast as RPG,
+And twice as easily.
+
+I crunched numbers like COBOL,
+Trees like APL,
+And FORTRAN loaned its FORMATs and GO TOs,
+The cause of many screws.
+
+And then a man said, "Now we'll write a monitor,
+With Multics what it's for.
+Our project is begun;
+We'll code in PL/I."
+
+Then I saw thousands of coders
+Searching for their bugs,
+And then I heard them mentioning my name
+And leaving me the blame.
+
+
+                -- The Great Quux
+                     (with apologies to
+                        Rice and Webber)
+%
+Save the environment.  Create a closure today.
+                -- Cormac Flanagan
+%
+CLOS isn't the solution to everything.  Common Lisp (which includes
+CLOS) is the solution to everthing ;)
+                -- Kelley Edward Murray (kem@franz.com)
+%
+If you like, consider me to just be saying that when you add a tiny
+conceptual amount of theoretical complexity going from a Lisp1 to a
+Lisp2, you get an tiny theoretical speedup...
+                -- Kent M. Pitman
+%
+People in the Algol/Fortran world complained for years that they
+didn't understand what possible use function closures would have in
+efficient programming of the future. Then the `object oriented
+programming' revolution happened, and now everyone programs using
+function closures, except that they still refuse to to call them that.
+                -- Henry Baker
+%
+Just because we Lisp programmers are better than
+everyone else is no excuse for us to be arrogant.  ;-)
+                -- Erann Gat
+%
+Increasingly, people seem to misinterpret complexity as
+sophistication, which is baffling -- the incomprehensible should cause
+suspicion rather than admiration. Possibly this trend results from a
+mistaken belief that using a somewhat mysterious device confers an
+aura of power on the user.
+                -- Niklaus Wirth
+%
+General recursion is the `go to' of functional programming.
+                -- Erik Meijer
+%
+On two occasions I have been asked [by members of Parliament!], `Pray,
+Mr.Babbage, if you put into the machine wrong figures, will the right
+answers come out?'  I am not able rightly to apprehend the kind of
+confusion of ideas that could provoke such a question.
+                -- Charles Babbage
+%
+If a `religion' is defined to be a system of ideas that contains
+unprovable statements, then Godel taught us that mathematics is not
+only a religion, it is the only religion that can prove itself to be
+one.
+                -- John Barrow
+%
+A man, a plan, a canoe, pasta, heros, rajahs, a coloratura, maps,
+snipe, percale, macaroni, a gag, a banana bag, a tan, a tag, a banana
+bag again (or a camel), a crepe, pins, Spam, a rut, a Rolo, cash, a
+jar, sore hats, a peon, a canal--Panama!
+                -- GLS, Common Lisp: The Language
+[This is an extreme example of a palindrome if you didn't notice. Ed.]
+%
+Functions compute; macros translate.
+                -- Dave Moon
+%
+Much of [Scheme's] power comes from its simplicity ... "The fox knows
+many things, but the hedgehog knows one great thing."  Scheme is a
+hedgehog.
+                -- PC Scheme Tutorial, viii (Texas Instruments)
+%
+The effort of using machines to mimic the human mind has always struck
+me as rather silly. I would rather use them to mimic something better
+                -- Edsger Dijkstra
+%
+I bet the human brain is a kluge.
+                -- Marvin Minsky
+%
+There's no sense in being precise, when you don't even know what
+you're talking about.
+                -- John von Neumann
+%
+As I was passing Project MAC,
+I met a Quux with seven hacks.
+Every hack had seven bugs;
+Every bug had seven manifestations;
+Every manifestation had seven symptoms.
+Symptoms, manifestations, bugs, and hacks,
+How many losses at Project MAC?
+                -- TGQ April 27, 1974
+%
+Compiling SYS:CLOS;LANGUAGE-SUPPORT.LISP.NEWEST
+For Function MAKE-STANDARD-METHOD-LAMBDA
+  The iteration variable IGNORE is implicitly used, so it may not be ignored.
+%
+Reclaimer, spare that tree!
+Take not a single bit!
+It used to point to me,
+Now I'm protecting it.
+It was the reader's CONS
+That made it, paired by dot;
+Now, GC, for the nonce,
+Thou shalt reclaim it not.
+
+That old familiar tree,
+Whose CDRs and whose CARs
+Are spread, o'er memory --
+And wouldst thou it unparse?
+GC, cease and desist!
+In it no freelist store;
+Oh spare that moby list
+Now pointing throughout core!
+
+It was my parent tree
+When it was circular;
+It pointed then to me:
+I was its CADADR.
+My CDR was a list,
+My CAR a dotted pair --
+That tree will sore be missed
+If it remains not there.
+
+And now I to thee point,
+A saving root, old friend!
+Thou shalt remain disjoint
+From freelists to the end.
+Old tree! The sweep still brave!
+And, GC, mark this well:
+While I exist to save,
+Thou shan't reclaim one cell.
+
+
+                -- The Great Quux
+                     (with apologies to
+                        George Pope Morris)
+%
+I think that I shall never see
+A matrix lovely as a tree.
+Trees are fifty times as fun
+As structures a la PL/I
+(Which Dijkstra claims are too baroque).
+And SNOBOL's strings just can't compare
+With all the leaves a tree may bear.
+And COMIT strings are just a joke.
+Vectors, tuples too, are nice,
+But haven't the impressive flair
+Of trees to which a LISP is heir.
+A LISPer's life is paradise!
+
+Many people think that JOSS
+And others, too, are strictly boss;
+And there are many BASIC fans
+Who think their favorite language spans
+All that would a user please.
+Compared to LISP they're all a loss,
+For none of them gives all the ease
+With which a LISP builds moby trees.
+
+RPG is just a nurd
+(As you no doubt have often heard);
+The record layouts are absurd,
+And numbers packed in decimal form
+Will never fit a base-two word
+Without a veritable storm
+Of gross conversions fro and to
+With them arithmetic to do.
+And one must allocate the field
+Correct arithmetic to yield,
+And decimal places represent
+Truncation loss to circumvent:
+Thus RPG is second-rate.
+In LISP one needn't allocate
+(That boon alone is heaven-sent!)
+The scheme is sheer simplicity:
+A number's just another tree.
+When numbers threaten overflow
+LISP makes the number tree to grow,
+Extending its significance
+With classic treelike elegance.
+A LISP can generate reports,
+Create a file, do chains and sorts;
+But one thing you will never see
+Is moby trees in RPG.
+
+One thing the average language lacks
+Is programmed use of push-down stacks.
+But LISP provides this feature free:
+A stack - you guessed it - is a tree.
+An empty stack is simply NIL.
+In order, then, the stack to fill
+A CONS will push things on the top;
+To empty it, a CDR will
+Behave exactly like a pop.
+A simple CAR will get you back
+The last thing you pushed on the stack;
+An empty stack's detectable
+By testing with the function NULL.
+Thus even should a LISPer lose
+With PROGs and GOs, RETURNs and DOs,
+He need his mind not overtax
+To implement recursive hacks:
+He'll utilize this clever ruse
+Of using trees as moby stacks.
+Some claim this method is too slow
+Because it uses CONS so much
+And thus requires the GC touch;
+It has one big advantage, though:
+You needn't fear for overflow.
+Since LISP allows its trees to grow,
+Stacks can to any limits go.
+
+COBOL input is a shame:
+The implementors play a game
+That no two versions are the same.
+And rocky is the FORTRAN road
+One's alpha input to decode:
+The FORMAT statement is to blame,
+But on the user falls the load.
+And FOCAL input's just a farce;
+But all LISP input comes pre-parsed!
+(The input reader gets its fame
+By getting storage for each node
+From lists of free words scattered sparse.
+It parses all the input strings
+With aid of mystic mutterings;
+From dots and strange parentheses,
+From zeros, sevens, A's and Z's,
+Constructs, with magic reckonings,
+The pointers needed for its trees.
+It builds the trees with complex code
+With rubout processing bestowed;
+When typing errors do forebode
+The rubout makes recovery tame,
+And losers then will oft exclaim
+Their sanity to LISP is owed -
+To help these losers is LISP's aim.)
+
+The flow-control of APL
+And OS data sets as well
+Are best described as tortured hell.
+For LISPers everything's a breeze;
+They neatly output all their trees
+With format-free parentheses
+And see their program logic best
+By how their lovely parens nest.
+While others are by GOs possessed,
+And WHILE-DO, CASE, and all the rest,
+The LISPing hackers will prefer
+With COND their programs to invest
+And let their functions all recur
+When searching trees in maddened quest.
+
+Expanding records of fixed size
+Will quickly programs paralyze.
+Though ISAM claims to be so wise
+In allocating overflow,
+Its data handling is too slow
+And finding it takes many tries.
+But any fool can plainly see
+Inherent flexibility
+In data structured as a tree.
+When all their efforts have gone sour
+To swell fixed records, losers glower.
+But list reclaimers hour by hour
+By setting all the garbage free
+Yield CONSequent capacity:
+Thus trees indefinitely flower.
+(And trees run on atomic power!)
+
+To men of sensibility
+The lesson here is plain to see:
+Arrays are used by clods like me,
+But only LISP can make a tree.
+
+            - The Great Quux
+                (with apologies to
+                   Joyce Kilmer)
+%
+               Alphabetical Order
+
+
+MACLISP Ben PDP-6 (may its core increase!)
+Awoke one jiffy from a deep dream of trees
+And saw, by parsing out a TTY: .FILE. (DIR)
+Scanning all the jobs, within the system here,
+A PEEK, displaying on a CRT of gold;
+A low USRTIM made the MACLISP bold:
+And to the PEEK by CLI: a message sent,
+"What displayest thou?" The message to it quickly went,
+And the PEEK through CLA: a message did transduce,
+And answer'd "The names of programs of practical use."
+"And is mine one?" sent MACLISP. "Nay, not so,"
+Replied the PEEK. MACLISP ran more slow
+But swapping still. "I pray thee then," it sent,
+"Display me as one that helps to systems implement."
+The PEEK :KILLed and vanished. The next time
+It ran again, in a display mode sublime,
+It showed the names the Grim File Reaper had blessed,
+And lo! MACLISP's name was thirty-seventh.
+
+
+                -- The Great Quux
+                     (with apologies to
+                        Leigh Hunt)
+%
+                  Lambda Bound
+
+           [to be sung to the tune of
+                 Homeward Bound]
+
+
+I'm just a little value cell,
+And I play my special role so well --
+        Hmmm --
+Serving as a global switch
+To predicate some system glitch;
+But some strange value -- who knows which? --
+Could cause me functions to bewitch!
+        Lambda bound!
+I wish I was
+        Lambda bound!
+Bound, so no SETQ's get me;
+Bound, so quits will reset me;
+Bound, where I can forget my
+        Top-level value.
+
+It's hard to catch those system screws:
+'Most any value causes me to lose --
+        Hmmm --
+Each atom looks the same to me,
+Whose interned name I cannot see,
+And every NIL and every T
+Reminds me that I long to be
+        Lambda bound!
+I wish I was
+        Lambda bound!
+Bound, so no SETQ's get me;
+Bound, so quits will reset me;
+Bound, where I can forget my
+        Top-level value.
+
+Next time I'll have a MAR break set
+And try to catch each clobber threat --
+        Hmmm, mmmm --
+The next covert attempt to mung
+Will cause the MAR break to be sprung,
+But then the poor LISP will be hung
+Because I'm not as I have sung:
+        Lambda bound!
+I wish I was
+        Lambda bound!
+Bound, so no SETQ's get me;
+Bound, so quits will reset me;
+Bound, where I can forget my
+        Top-level value.
+
+
+              -- The Great Quux
+                   (with apologies to
+                      Paul Simon)
+%
+Higgledy piggledy,
+Project MAC NCOMPLR
+Still is committing its
+DO-stepping sins:
+Though it may seem somewhat
+Counterintuitive,
+FOO stepped by FOO screws; de-
+Faulting it wins.
+%
+Quaxity quuxity,
+MacLISP and NCOMPLR
+Have a convention that
+Makes losers freak:
+Integers allocate
+Hyperefficiently,
+Bettering FORTRAN, but
+Screwing up EQ.
+%
+Quaxity quuxity,
+Teitelman's InterLISP
+Has a DWIM feature that's
+Really a screw;
+MacLISP has evident
+Superiority,
+Letting its customer
+Mean what he do.
+%
+Quaxity quuxity,
+TGQ's NEWIO
+Has many functions that
+No one can grok:
+Documentation is
+Incomprehensible;
+GLS will explain it, but
+Still it's a crock.
+%
+Quaxity quuxity,
+NIL the atomic one
+Acts like a wavicle,
+Seemingly twin:
+Not just the inverse of
+Verisimilitude;
+Also the inverse of
+Where lists begin.
+%
+Quaxity quuxy, A-
+Merican businessmen
+Use bicentennial,
+Profit to gain.
+Hope by the time we reach
+Quadricentennial
+They'll not so plague me -- ad-
+Vertisements pain!
+%
+Quaxity quuxity,
+Young Isaac Asimov
+Strange thiotimoline's
+Secret unfurled.
+Cascaded series of
+Endochronometers
+Brought paradoxical
+Floods on the world
+%
+Quaxity quuxity,
+Blish used philosophy
+When he was writing "The
+Quincunx of Time."
+Beeps of Dirac used to
+Chronocommunicate
+Fostered determinate
+Free will sublime.
+%
+Quaxity quuxity,
+David J. Littleboy
+(MIT graduate)
+Makes his plans plain.
+Leaving the study of
+Data-technology,
+He prefers seeking ma-
+Terial gain.
+%
+I often have wondered in
+What kind of orbit a
+Planet proceeds in a
+Tesseract space?
+Multidimensional,
+Hyperelliptical,
+Dizzying spacemen in
+Trans-solar chase.
+%
+Pauli and Heisenberg
+Offer two rules for con-
+Fused aristocracies,
+Quantum domains:
+"Egalitarian
+Nonexclusivity
+Must be forbidden"; "Un-
+Certainty reigns."
+%
+Quaxiti quuxiti,      Quaxity quuxity,
+Remus et Romulus        Remus and Romulus,
+Gemini fratres a        Wolf-nourished brothers, were
+Lupa aluntur.           Twins, so they say.
+Romulus inquit: non     Romulus patiently
+Aedificabitur           Founded a city; as
+Paucis diebus, sed      He said, "Rome will not be
+Roma nascetur.          Built in a day."
+%
+Quaxity quuxity,
+Kenneth E. Iverson
+Made APL, matrix
+Hackers to please,
+Not only famous for
+Arithmeticity;
+Also for characters.
+(Wish it had trees!)
+%
+Quaxity quuxity,
+Gerald J. Sussman made
+HACKER so famous for
+Loopholes it plugs.
+Armed with its knowledge of
+Entomological
+Manifestations, it
+Ferrets out bugs.
+%
+Quaxity quuxity,
+XOR's more famous than
+Brother EQUIV, though they've
+Similar use.
+Uncomplementary
+Verisimilitude,
+Rumor undoubtedly
+Cooked EQUIV's goose.
+%
+Quaxity quuxy, Na-
+Poleon Bonaparte
+Conquered all Europe, but
+What was the use?
+Some say the problem was
+Megalomania;
+Others, he lacked modern
+High-platform shoes.
+%
+Quaxity quuxity,
+Backus's BNF
+Drives a preprocessor,
+Generates code.
+Parsing is specified
+Metasyntactically;
+Writing it's easy, but
+reading, I'm snowed.
+%
+                My Favorite Hacks
+           [to be sung to the tune of
+                          My Favorite Things
+            from The Sound of Music]
+
+
+Circular MAPCAR and ANDCA'd negation,
+Indirect JMP auto-incrementation,
+Tangled spaghetti embroidered in stacks:
+These are a few of my favorite hacks.
+
+Mismatched DEFINE-TERMIN pairs with .QUOTEing,
+Misbalanced brackets for macroed remoting,
+PDP-6's with chess tourney plaques:
+These are a few of my favorite hacks.
+
+LAMBDAs as GO TOs and spooling on TPLs,
+Flip-flops and bit drops and TRCE's in triples,
+Crufty heuristics that prune minimax:
+These are a few of my favorite hacks.
+
+When the bugs strike,
+When the disks crash,
+When I read this verse,
+I simply remember my favorite hacks
+And then I feel even worse!
+
+                -- The Great Quux
+                     (with apologies to
+                        Rodgers and Hammerstein)
+%
+Circular MAPCAR
+
+
+        A constant  or periodic series of arguments can  be given to a
+mapped function  in LISP by supplying a circular  list to MAPCAR.  For
+example:
+
+        ((LAMBDA (C3)
+                 (RPLACD C3 C3)
+                 (MAPCAR 'CONS C3 THE-LIST))
+         (LIST 3))
+
+conses a 3 onto every element of THE-LIST.   Another  way  to use this
+hack is to use MAP,  which allows the mapped function  to  splice  new
+things into the circular list on the fly.
+%
+ANDCA'd negation
+
+
+        The sequence of PDP-10 instructions
+
+                MOVN A,NUMBER
+                ANDCA A,NUMBER
+                JUMPE A,FOO
+
+
+jumps to FOO iff NUMBER is an exact power of two.
+
+
+
+Indirect JMP auto-incrementation:
+
+
+        On  the PDP-11, the  instruction JMP  @(R4)+ can be  used as a
+combined subroutine call and subroutine return, using the technique of
+threaded code.
+%
+Mismatched DEFINE-TERMIN
+
+
+        Bizarre effects can be obtained in the MIDAS assembly language
+for the PDP-10 by using  .QUOTE  to get  in  mismatched  DEFINE-TERMIN
+pairs.  For example:
+
+        DEFINE DEFSYM X/
+        IRPS Z,,[X]
+        IFNDEF Z,X
+        .ELSE [
+           $$TEM1==Z
+           X
+           IFN Z-$$TEM1,.ERR Z MULTIPLY .QUOTE`.QUOTE/DEFINED/`
+        ]
+        .ISTOP
+        TERMIN TERMIN
+
+
+The multiple .QUOTEs allow used of the  word  DEFINED  in  the  error
+message.
+%
+Misbalanced brackets
+
+
+        A standard  MIDAS hack for accumulating text in  a macro to be
+assembled at a remote location is:
+
+;initialization:
+        DEFINE BNKBLK OP
+        OP
+        TERMIN                  ;BNKBLK accumulates text.
+
+        DEFINE BLCODE NEWCFT
+        BNKBLK [DEFINE BNKBLK OP
+        OP]NEWCFT
+        TERMIN
+        TERMIN                  ;BLCODE adds its arg to the end of BNK
+
+;add some text:
+        BLCODE [FOO]            ;add FOO.
+        BLCODE [BAR]            ;add BAR (note BLCODE inserts CRLF's,
+
+;assemble what has been accumulated:
+        BNKBLK                  ;which expands into ...
+;       FOO
+;       BAR
+
+
+This hack depends on the misbalancing of the brackets in BLCODE with
+respect to the DEFINE-TERMIN pairs.
+%
+TRCE's in triples
+
+        The sequence of PDP-10 instructions:
+
+                TRCE A,42
+                TRCE A,42
+                TRCE A,42
+
+exchanges the 40 bit and the 2 bit in accumulator A.
+%
+Crufty heuristics
+
+        The alpha-beta technique,  the gamma heuristic (described by
+Newborn in his book "Computer Chess"), and others, are used to prune
+minimax game trees.
+%
+:PDUMP
+
+
+99 blocks of crud on the disk,
+99 blocks of crud!
+You patch a bug, and dump it again:
+100 blocks of crud on the disk!
+
+100 blocks of crud on the disk,
+100 blocks of crud!
+You patch a bug, and dump it again:
+101 blocks of crud on the disk!
+
+(Repeat ad nauseam...)
+                -- The Great Quux
+                   2 December 1976
+%
+There was in ITS an escape code (whose name was DQOT) used internally
+in  the character streams  for terminal output  which was undocumented
+for some reason.  A call went out for jingles in 25 words or less.
+
+DQOT'S myster-
+ious and very weir-
+d; it quotes another char-
+acter, as noted where?
+                -- 1 September 1977
+
+
+Es schneit, es schneit
+With all its might!
+I say, der Schnee
+has come today!
+                -- 5 December 1977
+%
+                  BBN Superlisp
+
+           [to be sung to the tune of
+             Jesus Christ Superstar]
+
+
+Every time I look at you I don't understand
+Why you think "Do What I Mean" is so cool and grand;
+You'd have managed better if you'd thought it through,
+Why'd you pick such an awkward way your bugs to undo?
+Your hairy feature will not be the last revolution,
+It's clear "Mean What I Do" is the ultimate solution!
+
+Don't you get me wrong,
+Don't you get me wrong,
+Don't you get me wrong, now,
+Don't you get me wrong,
+I only want to hack,
+I only want to hack,
+I only want to hack,
+I only want to hack.
+
+BBN! BBN! Some people think you're the living end!
+BBN! BBN! Some people think you're the living end!
+BBN! SuperLISP! Can "Do What I Mean" measure up to this?
+BBN! SuperLISP! Can "Do What I Mean" measure up to this?
+
+Tell us what you think about your friends at the top,
+Who d'you think besides yourself's the pick of the crop?
+Is LISP 1.5 where it's at? Is it where you are?
+Does Stanford's LISP have features too or is that just PR?
+Do you have the breakpoint scheme that MACLISP is known for,
+Or is that just the kind of kludge the user's on his own for?
+
+Don't you get me wrong,
+Don't you get me wrong,
+Don't you get me wrong, now,
+Don't you get me wrong,
+I only want to hack,
+I only want to hack,
+I only want to hack,
+I only want to hack.
+
+BBN! BBN! Some people think you're the living end!
+BBN! BBN! Some people think you're the living end!
+BBN! SuperLISP! Can "Do What I Mean" measure up to this?
+BBN! SuperLISP! Can "Do What I Mean" measure up to this?
+
+
+                        -- The Great Quux
+                             (with apologies to
+                                Rice and Webber)
+%
+                 Both Ways, Now
+
+           [to be sung to the tune of
+                Both Sides, Now]
+
+
+Decimal digits in a row,
+Just set the dials and let 'er go.
+The ENIAC was grossly slow --
+    I used to code that way,
+But then this Fortran came along;
+I danced and sang a happy song:
+So natural -- what could go wrong?
+    I little knew, that day!
+I've looked at Fortran both ways, now,
+At II and IV, and still somehow,
+It's rows of numbers I recall;
+I really don't know Fortran at all.
+
+Fortran IV is real good stuff,
+But business hackers have it tough;
+For them this Fortran's not enough --
+    Then Cobol saved the day!
+But now I sing a sad refrain;
+This Cobol loss is no one's gain,
+And writing programs is a pain
+    (I get writer's cramp that way!)
+I've looked at Cobol both ways, now,
+I code in it, and still somehow,
+It's FORMAT statements I recall;
+I really don't know Cobol at all.
+
+Cobol will for business do;
+Accounts and payroll make it through
+(And bills for zero dollars too --
+    I get them every day!)
+But those who hack symbolic frobs
+Cannot make do with Cobol jobs,
+And now I sing through anguished sobs,
+    But Lisp is here to stay.
+I've looked at Lisp code both ways, now,
+At lambda forms, and still somehow,
+It's Cobol statements I recall;
+I really don't know Lisp at all.
+
+
+                -- The Great Quux
+                     (with apologies to
+                        Joni Mitchell)
+%
+                 A Time for DWIM
+
+           [to be sung to the tune of
+                  A Time for Us
+       (theme song from Romeo and Juliet)]
+
+
+A time for DWIM
+There'll never be;
+   No clever code
+   This losing mode
+Can UNDO for me.
+
+This "golden hope"
+(To be denied)
+   Could never
+Correctly fix the bugs my programs hide.
+
+A way for bugs
+There'll never be
+To fix with generality.
+
+So to this DWIM
+Let's say farewell;
+   The crocks therein
+   Prove it can't win
+And ring its knell:
+
+Do What I Mean
+Is just a ruse --
+   It really
+Means only: Fix How Teitelman doth Lose!
+
+
+                -- The Great Quux
+                     (with apologies to
+                        Rota, Kusik, and Snyder)
+%
+        It  may surprise  some people to  know that the
+PDP-10 instruction set,  far from being innovative, was
+developed strictly along  classical lines.  Many of the
+operation codes, for example, come from the Latin.  Two
+fifth-declension   nouns  (declinable   only   in   the
+singular) are as follows:
+
+Nominative:             moves          hrres
+Genitive:               movei          hrrei
+Dative:                 movei          hrrei
+Accusative:             movem          hrrem
+Ablative:               move           hrre
+
+
+        There  are, of  course, also  hlres, hrles, and
+hlles.   These all derive from  the corresponding verbs
+hrro, hrlo,  etc.  (second conjugation, semi-deponent.)
+Thus when  playing chess  with MacHack  one might  say,
+"movem hrro," that is, "I am hurrying a move."
+
+        Similarly, the code  jffo ("i am jffing") comes
+from  a defective  Latin verb  dating from  an era when
+ancient  computers marked time  by periodically pushing
+counters onto a wire.   The number of empty spaces left
+on the  wire could easily be  counted by an instruction
+very like  jffo,  from which  could be  calculated  the
+number of "jiffies" (clock ticks; 1 jiffy = 40 seconds)
+which had passed; hence the name.
+
+        Teutonic languages have also lent several words
+to the  PDP-10: rot ("red") derives  from the pieces of
+decayed redwood traditionally used as temporary markers
+in  older German manual shift  registers; while ash was
+commonly the result  when an older German got disgusted
+and threw his shift register in the fire.
+
+                      --- The Great Quux
+                              (with apologies to no one)
+%
+Notes taken in 6.893 (Machine Perception and Manipulation)
+
+"...   and so  the line  connecting the points  Ga and  Gb in gradient
+space, which correspond  to the planes A and B  in image space, is the
+set of points representing  positions of a plane see-sawing around the
+line of intersection between A and B..."
+
+Now I see; then I saw;
+The planes of a cube have a linear law.
+The endpoints of lines in the gradient space
+Show where the see-sawing planes fall into place.
+
+Macrakis, sitting beside me, half-asleep: "COFFEE!"
+
+Caffeine doesn't help me composing this verse.
+It only awakes me; my thoughts all disperse.
+One thinks better dozing, collapsed in a heap;
+Why else are most students in classes asleep?
+
+"...   the lines in gradient  space are perpendicular to  the lines in
+image  space.   This  doesn't  provide  enough  constraints,  however.
+Additional  equations may  be derived from  the intensity information.
+One  can get  one or  more solutions for  a trihedral  vertex.  If the
+vertex  has more  than three planes,  then there  are more constraints
+than necessary, and one may have to resort to least squares..."
+
+Alone, the geometry isn't enough:
+You also require intensity stuff.
+We get enough data if points are tri-planed,
+While four leave the gradients over-constrained.
+%
+Notes taken in 6.015 (Signals and Systems)
+
+
+On Matched Filters:
+
+The ancients used potions, their love schemes to hatch;
+They knew the right philtre encouraged a match.
+When a lad made a wink at a comely young lass,
+The philtre she used was designed for a pass.
+The signals to use were determined by philtre;
+The two peaked as one, for the lad could not jilt her.
+The two thus entwined, so that noise did not bother
+(Excepting that made by the groom's in-law mother...)
+
+On Time Division Multiplexing:
+
+To get the most use from your broadcasting medium:
+Activity is, strangely, relieved by the TDM.
+%
+As I've gained more experience with Perl it strikes me that it resembles
+Lisp in many ways, albeit Lisp as channeled by an awk script on acid.
+                -- Tim Moore (on comp.lang.lisp)
+%
+The world is not octal despite DEC.
+%
+Hackers are just a migratory lifeform with a tropism for computers.
+%
+Premature optmztion is rt of al evl.
+%
+"If it has syntax, it isn't user friendly."
+                -- Sam Steingold <sds@gnu.org>
+%
+The nicest thing about the Alto is that it doesn't run faster at night.
+%
+The problem with Lisp is that it makes you so damned smug.
+                -- Jesse Bowman
+%
+And TECO Emacs begat EINE, and EINE begat ZWEI, and ZWEI begat Zmacs.
+Thus was the ancestry of the Lisp Machine editor begun.  And the
+bastard child of EINE was Hemlock, which did abide in the land of
+Spice Lisp, whose secrets were held by the Priests of the Carnegie
+Mellon.  And Hemlock did prosper in the land of Spice Lisp, and did
+grow beyond the narrow borders of PERQ.  For the land of Spice Lisp
+became bound by marriage to the Common Lisp, and Hemlock did forsake
+the language of MacLisp and its father EINE, and did sow new children
+upon the ground of the Common Lisp of the Priests of Carnegie Mellon,
+where its progeny would spread across Unix systems everywhere.  But
+the Great Emacs of Saint IGNUcius would overtake the spread of
+Hemlock, for Saint IGNUcius spread a gospel far sweeter to the ears of
+the masses than that of the authors of the Common Lisp Standard.  Yea,
+Hemlock, though it continue on even to this day amongst the
+worshippers of the Priests of Carnegie Mellon, Hemlock did become
+marginalized as it required a particular Common Lisp, whereas the
+Great Emacs of Saint IGNUcius did spread its gospel in the language of
+C, spoken by teeming masses of Unix hackers and other heathen.
+                -- James A. Crippen on alt.religion.emacs
+%
+"Programs must be written for people to read, and only incidentally
+for machines to execute."
+                -- Abelson & Sussman, SICP (preface to the first edition)
+%
+"Lisp is a programmable programming language."
+                -- John Foderaro, CACM, September 1991
+%
+"One can even conjecture that Lisp owes its survival specifically to
+the fact that its programs are lists, which everyone, including me,
+has regarded as a disadvantage."
+                -- John McCarthy, "Early History of Lisp"
+%
+Greenspun's Tenth Rule of Programming:
+
+Any sufficiently complicated C or Fortran program contains an ad hoc
+informally-specified bug-ridden slow implementation of half of Common
+Lisp.
+                -- Phil Greenspun
+
+"Including Common Lisp."
+                -- Robert Morris
+%
+"Most papers in computer science describe how their author learned what
+someone else already knew."
+                -- Peter Landin
+%
+"Lisp is worth learning for the profound enlightenment experience you
+will have when you finally get it; that experience will make you a
+better programmer for the rest of your days, even if you never
+actually use Lisp itself a lot."
+                -- Eric S. Raymond
+%
+"Lisp is a programmer amplifier."
+                -- Martin Rodgers
+%
+"Don't worry about what anybody else is going to do.  The best way to
+predict the future is to invent it."
+                -- Alan Kay
+%
+"Dealing with failure is easy: Work hard to improve.  Success is also
+easy to handle: You've solved the wrong problem. Work hard to
+improve."
+                -- Alan Perlis
+%
+"Lisp was far more powerful and flexible than any other language of its
+day; in fact, it is still a better design than most languages of
+today, twenty-five years later. Lisp freed ITS's hackers to think in
+unusual and creative ways. It was a major factor in their successes,
+and remains one of hackerdom's favorite languages."
+                -- Eric S. Raymond, "Open Sources"
+%
+"Common Lisp is politics, not art."
+                -- Scott Fahlman
+%
+"Lisp doesn't look any deader than usual to me."
+                -- David Thornley
+                   (in reply to a question older than most languages)
+%
+"Language designers are not intellectuals. They're not as interested in
+thinking as you might hope. They just want to get a language done and
+start using it."
+                -- Dave Moon
+%
+"Lisp isn't a language, it's a building material."
+                -- Alan Kay
+%
+DEFSYSTEM is to Lisp as make is to C. Which is to say,
+  * thoroughly incomprehensible at first sight
+  * not standard, but incompatible versions are provided by most vendors
+                -- Daniel Barlow
+%
+"KMP is the official language lawyer for comp.lang.lisp.  If it wasn't
+for him most of the flamewars would never end.  He ends them by
+leaving everyone confused, but still feeling enlightened.  He is a
+valuable resource for the Lisp community, like the erudite and cryptic
+Zen master on the mountaintop."
+                -- James A. Crippen
+%
+Dalinian: Lisp. Java. Which one sounds sexier?
+
+RevAaron: Definitely Lisp. Lisp conjures up images of hippy coders,
+drugs, sex, and rock & roll. Late nights at Berkeley, coding in Lisp
+fueled by LSD. Java evokes a vision of a stereotypical nerd, with no
+life or social skills.
+%
+They didn't call him Wirth the Assassin for nothing.  His favorite
+weapon was a sharpened type declaration.
+                -- Lyle McKennot
+%
+Ah, but CL has a Dark Side, my young padewan, and you must take care
+not to give yourself over to it.
+
+CL's Force is the fact that it is a language-building language.  For any
+application domain, there may be a way of expressing that domain in such
+a way that it becomes natural to solve problems in that domain.  CL
+shows itself most worthy in building those language domains.
+
+But alas, many times a student of CL will become enamoured with his
+own domain, thinking it is the best or only domain and thus his little
+language that he has created is a better language than CL.  Thus starts
+the flirtation with the Dark Side: "if my little language suits me better
+than just CL, then my little language must be better than CL and I should
+promote it".
+
+Use the Force, young padewan; feel its power.  But beware the Dark Side;
+many strong Jedi have given themselves over to it...
+                -- Duane Rettig (on comp.lang.lisp)
+%
+...Please don't assume Lisp is only useful for Animation and Graphics,
+AI, Bioinformatics, B2B and E-Commerce, Data Mining, EDA/Semiconductor
+applications, Expert Systems, Finance, Intelligent Agents, Knowledge
+Management, Mechanical CAD, Modeling and Simulation, Natural Language,
+Optimization, Research, Risk Analysis, Scheduling, Telecom, and Web
+Authoring just because these are the only things they happened to
+list.
+                -- KMP
+%
+Emacs would be a *wonderful* operating system if only it had a decent text
+editor.
+%
+"Some people have asked why they need a lisp image to build a lisp image
+("why can't I just build from source?"). These people have clearly never
+tried to compile GCC on a machine that doesn't have a C compiler installed.
+               -- Gary Byers
+%
+Did Lisp kill your father or something? Was your father driving along in his
+sports car along the sea cliff road when a pair of giant evil sweaty
+parentheses loomed up out of the rough dark sea and munched him, dragging his
+corpse back to their dark chasm beneath the waves? Will there be an ironic
+twist at the end of the movie when you eventually discover, after finally
+slaying them, that the evil parens from the depths were actually the ones Java
+programmers use to sort out their messy infix expressions?
+               -- David Golden on comp.lang.lisp
+%
+There is a rough formula to compute the probability that someone will write
+a post generally trashing a given language:
+
+  p = o / (k * n)
+
+Where o = opinonatedness,
+k = knowledge of the language in question,
+n = number of languages in which the author has written production code.
+               -- Roedy Green <look-on@mindprod.com> on comp.lang.lisp
+%
+> Lisp is the red pill. -- John Fraser, comp.lang.lisp
+
+You know, the other day I was eating a juicy and delicious steak, and
+it made me think about your .sig.  It's getting close to twenty years
+since I first used Lisp, and some eleven of those years I've used
+ALGOL-style languages.  After nine years, you know what I realize?
+
+Lisp isn't always doing what the Man tells you, fighting unkillable
+bugs, being tired and cold, eating the same goddamn goop everyday...
+
+Lisp is bliss.  No more trying to make sense of C or Perl alphabet
+soup: all I see now is blonde, brunette, redhead.
+
+Lisp isn't the red pill.  It's the blue pill.
+
+Lisp. What a mind-job.
+                -- Peter Seibel on comp.lang.lisp
+%
+[dan`b] where do symbols come from? well, when a reader and a package love each
+        other very much ...
+%
+[noss] what is the terminology to separate lisp code as its textual
+       representation and the data is code language? i.e. what you pass to
+       READ and what you pass to EVAL?
+[segv] you pass strings to read and forms to eval
+[segv] strings or streams.
+[antifuchs] you pass streams to READ (;
+[segv] what antifuchs said.
+[antifuchs] unless your read is read-from-string, right (:
+[eval] I hat my IRC client, it pops up everytime my name is said
+%
+;; FIXME: This old CMU CL code probably deserves a comment
+;; explaining to us mere mortals how it works...
+[no other comment follows]
+                -- SBCL src/code/late-type.lisp
+%
+;; FIXME: It's unnecessarily confusing to have a structure accessor
+;; named TYPE-CLASS-INFO which is an accessor for the CTYPE structure
+;; even though the TYPE-CLASS structure also exists in the system.
+;; Rename this slot: TYPE-CLASS or ASSOCIATED-TYPE-CLASS or something.
+                -- SBCL src/code/typedefs.lisp
+%
+;; KLUDGE: "DO NOT CONSTANT FOLD, EVIL COMPILER!"
+(declare (notinline opaque-identity make-single-float make-double-float))
+                -- SBCL src/code/unportable-float.lisp
+%
+;;; Both of these operations "work" on structures, which allows the above
+;;; weakening of STD-INSTANCE-P.
+(defmacro std-instance-slots (x) `(%instance-ref ,x 1))
+(defmacro std-instance-wrapper (x) `(%instance-layout ,x))
+;;; KLUDGE: This one doesn't "work" on structures.  However, we
+;;; ensure, in SXHASH and friends, never to call it on structures.
+(defmacro std-instance-hash (x) `(%instance-ref ,x 2))
+                -- SBCL src/pcl/low.lisp
+%
+;; FIXME: We're _WHAT_?  Testing for type equality
+;; with a specifier and #'EQUAL?  *BOGGLE*.  --
+;; CSR, 2003-06-24
+                -- SBCL src/compiler/generic/primtype.lisp
+%
+;; KLUDGE: ANSI, in its wisdom, says that
+;; EQL-SPECIALIZER-FORMs in EQL specializers are evaluated at
+;; DEFMETHOD expansion time.
+[...]
+;; KLUDGE: PCL, in its wisdom, sometimes calls methods with
+;; types which don't match their specializers.
+                -- SBCL src/pcl/boot.lisp
+%
+;;; KLUDGE: this is probably because ANSI, in its wisdom (CLHS
+;;; 5.1.2.5) requires implementations to support
+;;;   (SETF (APPLY #'AREF ...) ...)
+;;; [and also #'BIT and #'SBIT].  Yes, this is terrifying, and it's
+;;; also terrifying that this sequence of definitions causes it to
+;;; work.
+                -- SBCL src/code/array.lisp
+%
+;; ANSI, in its wisdom, says that READ should return END-OF-FILE
+;; (and that this is not a READER-ERROR) when it encounters end of
+;; file in the middle of something it's trying to read.
+                -- SBCL src/compiler/main.lisp
+%
+;;; KLUDGE: The %DEF-FOO functions used to implement the macros here
+;;; are defined later in another file, since they use structure slot
+;;; setters defined later, and we can't have physical forward
+;;; references to structure slot setters because ANSI in its wisdom
+;;; allows the xc host CL to implement structure slot setters as SETF
+;;; expanders instead of SETF functions. -- WHN 2002-02-09
+                -- SBCL src/compiler/generic/vm-macs.lisp
+%
+;; KLUDGE: CMU CL in its wisdom (version 2.4.6 for
+;; Debian Linux, anyway) raises a CL:WARNING
+;; condition (not a CL:STYLE-WARNING) for undefined
+;; symbols when converting interpreted functions,
+;; causing COMPILE-FILE to think the file has a real
+;; problem, causing COMPILE-FILE to return FAILURE-P
+;; set (not just WARNINGS-P set).
+                -- SBCL src/compiler/ir1tran.lisp
+%
+;;; ANSI, in its wisdom, specifies that it's an error (specifically a
+;;; TYPE-ERROR) to query the system about the translations of a string
+;;; which doesn't have any translations. It's not clear why we don't
+;;; just return NIL in that case, but they make the rules..
+                -- SBCL tests/pathnames.impure.lisp
+%
+<gusl> btw, do you know which symbol returns the result of the last evaluation?
+<Xof> *
+<gusl> great
+<gusl> and what was the other one which returns the function it's in?
+<Xof> -ENOSENSE
+<gusl> thanks, Xof. This will help me a lot in debugging.
+<gusl> what does the ENOSENSE part mean, btw?
+<jdz> gusl: it means that the question does not compute
+<gusl> jdz: but his answer was right
+<gusl> - is what I was looking for
+%
+<gusl> given a list with #'s, how can you copy it into a plain list?
+<Xach> it already is a plain list
+<gusl> Xach: I mean, a list without #'s
+<IPmonger> you could walk it and copy each element one at a time
+<gusl> but there is no standard command?
+<Xof> express your question in terms of the box-and-pointer diagrams
+<bunny_magnet> [ IS | *-]--> [ THERE | *-]--> [ NO | *-]--> [ STANDARD |
+    *-]--> [ COMMAND | *-]--> [ ? | nil]
+%
+;;
+;; Unlike the SOURCE-NAME slot, this slot's value should never
+;; affect ordinary code behavior, only debugging/diagnostic behavior.
+;;
+;; Ha.  Ah, the starry-eyed idealism of the writer of the above
+;; paragraph.
+                -- SBCL src/compiler/node.lisp
+%
+;; Will Clingers number 1.448997445238699
+;; Doug Curries numbers 214748.3646, 1073741823/5000
+;; My number: 12.
+;; Your number:
+                -- OpenMCL ccl/level-1/l1-numbers.lisp
+%
+Lisp hackers have to be bound (to-do 'it).
+%
+A fully declared Common Lisp program is as robust as assembly language.
+%
+Read my Lisp! No Gnu Faxes!
+%
+XML is the Lisp of the 90s.
+%
+> What's so great about the lambda calculus?
+
+In a profession plagued by, "when all you have is a hammer, everything
+looks like a nail," we get really excited when someone is able to come
+along and prove that everything really *is* a nail if lambda is the
+hammer.
+                -- brlewis@my-deja.com
+%
+You're posting to a Scheme group. Around here, arguing that Java is
+better than C++ is like arguing that grasshoppers taste better than
+tree bark.
+                -- Thant Tessman <thant@acm.org> in comp.lang.scheme
+%
+> Can we quote you on that?
+
+A long time ago, someone in the Lisp industry told me it was poor form
+quote people; it suggests that they lack value.
+                -- Kent M Pitman <pitman@world.std.com> in comp.lang.lisp
+%
+> What's so great about the lambda calculus?
+
+In a profession plagued by, "when all you have is a hammer, everything
+looks like a nail," we get really excited when someone is able to come
+along and prove that everything really *is* a nail if lambda is the
+hammer.
+                -- brlewis@my-deja.com
+%
+You're posting to a Scheme group. Around here, arguing that Java is
+better than C++ is like arguing that grasshoppers taste better than
+tree bark.
+                -- Thant Tessman <thant@acm.org> in comp.lang.scheme
+%
+> Can we quote you on that?
+
+A long time ago, someone in the Lisp industry told me it was poor form
+quote people; it suggests that they lack value.
+                -- Kent M Pitman <pitman@world.std.com> in comp.lang.lisp
+%
+If you give someone Fortran, he has Fortran.
+If you give someone Lisp, he has any language he pleases.
+                -- Guy L. Steele Jr.
+%
+maybe you can revive the lisp used in the old "abuse" game?  (i'd offer
+pointers, but i'm sort of afraid of typing "lisp abuse" into a search
+engine. :-)
+                -- thi <ttn@netcom.com> in comp.lang.lisp
+%
+Parentheses?  What parentheses? I haven't noticed any parentheses
+since my first month of Lisp programming.  I like to ask people who
+complain about parentheses in Lisp if they are bothered by all the
+spaces between words in a newspaper...
+                -- Kenny Tilton <tilt@liii.com>
+%
+I am reminded of Gregor Kiczales at ILC 2003 displaying some AspectJ to
+a silent crowd, pausing, then plaintively adding, "When I show that to
+Java programmers they stand up and cheer."
+                -- Kenny Tilton <ktilton@nyc.rr.com>
+%
+If you learn Lisp correctly, you can grok all programming styles with
+it: procedural, OO, predicate, functional, pure or full of
+side-effects. Recursion will be your friend, function references your
+allies, you will truly know what a closure is, and that an argument
+stack is actually a performance hack. You will see that the most
+elegant way to solve a problem is to create a custom language, solve
+the generic problem, and have your specific one fall out as a special
+case. You will learn to truly separate intent from the bare metal, and
+you will finally understand the two deepest secrets, which are really
+the same secret, which we tell all, but so few understand, that code
+and data are the same thing, but organize your data and your code will
+follow.
+                -- Mark Atwood, rec.arts.sf.written, Jan 2002
+%
+I guess, when you're drunk, every woman looks beautiful and every
+language looks (like) a Lisp :)
+              --- Lament, #scheme@freenode.net
+%
+Infrequently Asked Questions about Common Lisp
+
+Q: Is CDR coding useful?
+A: Programs written in CDR coding style may be faster, especially on hardware
+with CDR coding support.
+%
+Infrequently Asked Questions about Common Lisp
+
+Q: What is CDR coding?
+A: CDR coding is programming style where programs looks like this (incomplete)
+example:
+
+(CDR (CDR (CDR (CDR (CDR (CDR (CDR (CDR (CDR (CDR (CDR (CDR
+%
+Infrequently Asked Questions about Common Lisp
+
+Q: Why doesn't (sort my-variable)  update the variable?
+A: The default calling convention in Common Lisp is call by value, so it
+can't  modify arguments passed into a function. Use the appropriate compiler
+switch to make it call by reference.
+%
+Infrequently Asked Questions about Common Lisp
+
+Q: What's a 'special variable'?
+A: Some variables have values that must be accessed very quickly. They are
+stored in memory that is connected to the CPU by a high speed datapath called
+'the short bus'. Special variables ride the short bus.
+%
+SQL, Lisp, and Haskell are the only programming languages that I've seen
+where one spends more time thinking than typing.
+                -- Phillip Greenspun
+%
+Java was, as Gosling says in the first Java white paper, designed for average
+programmers. It's a perfectly legitimate goal to design a language for
+average programmers. (Or for that matter for small children, like Logo.) But
+it is also a legitimate, and very different, goal to design a langauge for
+good programmers.
+                -- Paul Graham
+%
+In Lisp, if you want to do aspect-oriented programming, you just do a bunch of
+macros and you're there. In Java, you have to get Gregor Kiczales to go out
+and start a new company, taking months and years and try to get that to work.
+Lisp still has the advantage there, it's just a question of people wanting
+that.
+                -- Peter Norvig
+%
+LISP has survived for 21 years because it is an approximate local optimum in
+the space of programming languages.
+                -- John McCarthy (1980)
+%
+And you're right: we were not out to win over the Lisp programmers; we were
+after the C++ programmers. We managed to drag a lot of them about halfway to
+Lisp. Aren't you happy?
+                -- Guy Steele - Sun Microsystems Labs (about Java)
+%
+No language feels more natural than Lisp. There's a real sense that while
+Python was invented by a brilliant programmer, Lisp is built into of the
+structure of the Universe.
+                -- Anonymous
+%
+I can't escape the sensation that I have already been thinking in Lisp all my
+programming career, but forcing the ideas into the constraints of bad
+languages, which explode those ideas into a bewildering array of details,
+most of which are workarounds for the language.
+                -- Kaz Kylheku
+%
+I have heard more than one LISP advocate state such subjective comments as,
+"LISP is the most powerful and elegant programming language in the world"
+and expect such comments to be taken as objective truth. I have never heard
+a Java, C++, C, Perl, or Python advocate make the same claim about their own
+language of choice.
+                -- Slashdot post
+%
+There are no average Lisp programmers. We are the Priesthood. Offerings of
+incense or cash will do.
+                -- Kenny Tilton
+%
+Common Lisp people seem to behave in a way that is akin to the Borg: they
+study the various new things that people do with interest and then find that
+it was eminently doable in Common Lisp all along and that they can use
+these new techniques if they think they need them.
+                -- Erik Naggum
+%
+Q: How can you tell when you've reached Lisp Enlightenment?
+A: The parentheses disappear.
+%
+More than anything else, I think it is the ability of Lisp programs to
+manipulate Lisp expressions that sets Lisp apart. And so no one who has
+not written a lot of macros is really in a position to compare Lisp to
+other languages. When I hear people complain about Lisp's parentheses,
+it sounds to my ears like someone saying: "I tried one of those bananas,
+which you say are so delicious. The white part was ok, but the yellow
+part was very tough and tasted awful."
+                -- Paul Graham
+%
+Although my own previous enthusiasm has been for syntactically rich languages,
+like the Algol family, I now see clearly and concretely the force of Minsky's
+1970 Turing Lecture, in which he argued that Lisp's uniformity of structure
+and power of self reference gave the programmer capabilities whose content was
+well worth the sacrifice of visual form.
+                -- Robert Floyd, Turing Award Lecture, 1979
+%
+[antifuchs] Mean   PHP  core function name length: 13.67
+[antifuchs] "yeah, but what's the standard error?" (-:
+[dan-b] the standard error is to use PHP, I think
+%
+[Xophe] minion, reply to alemmens' survey!
+[minion] does torturing a poor bot with things beyond its
+         comprehension please you?
+%
+[nyef] Hrm... a 50-line file, and I suspect that 13 lines of it
+       say that I'm completely insane.
+[antifuchs] nyef: so what? 37 say that you're the exact opposite (-:
+[wnewman] Maybe 37 say he's a pleasant kind of insane, and 13 say
+          that he's a SBCL/x86 calling convention kind.
+%
+[Luke] I have a small program that has been looking "basically right"
+       for about two days, but has never worked,
+       and I find fundamental problems with it every few hours :)
+%
+[slothrop] it's tough to build apparently
+[slothrop] cmucl, I mean
+[wnewman] I did finally figure out how to do it, in my own way.
+%
+[dan-b] it would be nice if more people knew the difference
+        between i.e. and e.g.
+[wnewman] If you write the canonical web browser to displace
+          Internet Explorer, and name it Evil Genius, then for at
+          least fifteen minutes afterwards you should have a good
+          conversational excuse to remind people of the
+          difference.
+%
+[ingvar] Modelling forest damage by storms with egular expressions is... a curious idea.
+[Xach] before: |||  after: //_
+[Xach] seems easy enough to me
+%
+[frodef] wow, someone wrote ext2fs reading for movitz.. so now movitz can
+         be confused about logical pathnames too..
+%
+[Xof] I just delivered my first Lisp application
+[Xof] thank you, clx hackers, mcclim hackers, climacs hackers.
+[Xof] sbcl hackers
+[Xof] hmm, all of those are me :-)
+%
+[sdschulze] In the Hurd, you'll be able to write filesystems in Lisp.
+[sdschulze] You can already write /dev/zero in Scheme.
+[sdschulze] IIRC
+[ayrnieu] how useful!
+[sdschulze] and Ruby and Python
+[Xof] I'm not going to be sarcastic at this point.  I am simply going to hold
+      my head in my hands and say a short, silent prayer for humanity
+[sdschulze] More complex filesystems are being discussed.
+%
+[gusl] btw, do you know which symbol returns the result of the last evaluation?
+[Xof]  *
+[gusl] great
+[gusl] and what was the other one which returns the function it's in?
+[Xof]  -ENOSENSE
+[gusl] thanks, Xof. This will help me a lot in debugging.
+[gusl] what does the ENOSENSE part mean, btw?
+[jdz]  gusl: it means that the question does not compute
+[gusl] jdz: but his answer was right
+[gusl] - is what I was looking for
+%
+[dan-b] premature standardization is the root of all Java
+%
+[dan_b] did I already say "gah identd gah gah" lately?
+[sshields] it bears repeating
+%
+[fph] slime must be newer than sbcl to work
+[salkin] fph: that sounds like a good heuristic :)
+%
+[rtoy] It does make me wonder how the cmucl wizard(s) bootstrapped the dd-struct (?) thing to use defstruct. There's a scary comment that you're on your own if you change it.
+[salex] have to love comments like that
+[Xophe] yeah. I think they bootstrapped that from maclisp
+%
+"Lisp is the cockroach of programming languages: it'll be the only one left
+after the apocalypse."
+                -- Paul Snively
+%
+"I'm starting to see why so many Lisp users seem so damn smug."
+                -- Dave Fayram
+%

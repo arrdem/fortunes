@@ -1,0 +1,14 @@
+<technomancy> and there should be a middleware that intercepts stack traces
+              and runs a badly-calibrated jpeg compression scheme on them so
+              they can look even more hideous
+%
+<dpsutton> since there isn't infinite tape, i say we all just go to the beach
+%
+<cemerick> If "professional" life isn't more embarrassing than college, you're doing it wrong.
+%
+Haglebug - any bug caused by using clojure.core/when in place of clojure.core/if
+%
+meta-yak - the yak, upon whose back the world is built
+%
+Unfortunately, many pull requests are to software projects what fan fiction is to fantasy writing with the added presumption that authors should prioritize editing yours over writing theirs
+    -- Stuart Halloway
